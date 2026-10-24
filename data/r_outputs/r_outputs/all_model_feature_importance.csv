@@ -1,0 +1,1025 @@
+feature,importance,rank,model,normalized_importance
+is_hijacking,155.05825316237824,1,Extra Trees,0.1088920614795526
+incident_type_Data.theft.Hijacking.with.Misuse,144.49896633873365,2,Extra Trees,0.10147663865277516
+is_data_theft,83.31512460471204,3,Extra Trees,0.058509337527053444
+is_disruption,62.3518149843469,4,Extra Trees,0.04378752844279144
+incident_type_Disruption,61.482956161700685,5,Extra Trees,0.04317735886843434
+data_exfiltration,54.261533628898356,6,Extra Trees,0.03810600297234889
+has_disruption,52.96478476544474,7,Extra Trees,0.037195340985109425
+mitre_impact_Data.Exfiltration,50.218648965061014,8,Extra Trees,0.03526682455784492
+incident_type_Hijacking.without.Misuse,41.32991956983421,9,Extra Trees,0.029024576576587587
+incident_type_Disruption.Hijacking.with.Misuse,40.50600746507613,10,Extra Trees,0.028445971531481658
+is_ransomware,32.594299018230636,11,Extra Trees,0.02288985165374769
+mitre_impact_Not.available,32.47213358742896,12,Extra Trees,0.02280405908656585
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse.Ransomware,31.919683775541262,13,Extra Trees,0.0224160926439319
+incident_type_Data.theft,25.113712973610856,14,Extra Trees,0.017636494164799395
+incident_type_Hijacking.with.Misuse,21.71657755556782,15,Extra Trees,0.015250803166407175
+incident_type_Disruption.Hijacking.with.Misuse.Ransomware,18.63104555694592,16,Extra Trees,0.013083940498741163
+initiator_subcategory_Hacktivist.s.,18.502909785337373,17,Extra Trees,0.012993955167195372
+source_disclosure_Incident.disclosed.by.attacker,16.443849399220074,18,Extra Trees,0.011547948098352695
+offline_conflict_issue_Not.available,13.314852698224088,19,Extra Trees,0.009350561669799522
+mitre_data_encryption,13.262805596790681,20,Extra Trees,0.009314010786157205
+il_breach_indicator_Not.available,12.584029211004756,21,Extra Trees,0.008837329549109688
+offline_conflict_intensity_Not.available,12.550593271718583,22,Extra Trees,0.008813848642533475
+mitre_impact_Data.Encrypted.for.Impact,12.48475046690512,23,Extra Trees,0.008767609512377497
+il_breach_indicator_subcode_Not.available,11.250409048605917,24,Extra Trees,0.007900774120729948
+mitre_impact_Network.Denial.of.Service,11.211563448818092,25,Extra Trees,0.00787349419622392
+source_disclosure_Incident.disclosed.by.IT.security.company,9.949120245421245,26,Extra Trees,0.006986923890451335
+incident_type_Data.theft...Doxing.Disruption.Hijacking.with.Misuse.Ransomware,9.73091471041985,27,Extra Trees,0.006833685671601622
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse,9.674175050337704,28,Extra Trees,0.006793839365919823
+is_doxing,9.441930685243983,29,Extra Trees,0.0066307421610546195
+incident_type_Data.theft...Doxing,8.35695963162333,30,Extra Trees,0.005868804423044163
+incident_period_X2020.2024,8.341463332014857,31,Extra Trees,0.005857921906472122
+initiator_category_Non.state.group,8.250407010297549,32,Extra Trees,0.005793976193294509
+end_date_missing,7.394739965918937,33,Extra Trees,0.0051930707496808184
+initiator_subcategory_Criminal.s.,7.3246768818923735,34,Extra Trees,0.005143867863038738
+incident_type_other,7.232567647789053,35,Extra Trees,0.005079182725819309
+incident_year,7.117057015518719,36,Extra Trees,0.004998063594046612
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse,7.028541622284349,37,Extra Trees,0.004935902287277148
+inclusion_criterion_Attack.on.critical.infrastructure.target.s.,5.577121805357425,38,Extra Trees,0.003916620225767411
+cyber_conflict_issue_Unknown,5.529624022965422,39,Extra Trees,0.003883264171930301
+incident_type_Data.theft.Hijacking.with.Misuse.Ransomware,5.349184177815562,40,Extra Trees,0.0037565474940966914
+initiator_subcategory_Not.available,4.991910487270017,41,Extra Trees,0.0035056465076450296
+state_responsibility_actor_Not.available,4.9195940509247515,42,Extra Trees,0.0034548611694131823
+attributing_actor_other,4.868551268720272,43,Extra Trees,0.0034190155845149886
+il_breach_indicator_Sovereignty,4.255639890040198,44,Extra Trees,0.002988589069527386
+incident_period_X2010.2014,4.09671794417279,45,Extra Trees,0.002876983669963638
+mitre_initial_access_Not.available,4.070636529365911,46,Extra Trees,0.002858667592188337
+receiver_category_State.institutions...political.system,3.9956184293903987,47,Extra Trees,0.0028059849687999635
+receiver_category_other,3.9653890847079087,48,Extra Trees,0.00278475594298213
+incident_period_X2015.2019,3.8811399673613525,49,Extra Trees,0.0027255906945764736
+offline_conflict_intensity_Unknown,3.8727357278176178,50,Extra Trees,0.0027196886871023737
+incident_month,3.748595833982591,51,Extra Trees,0.0026325095226538173
+offline_conflict_issue_Unknown,3.631558232368255,52,Extra Trees,0.002550318052993305
+state_responsibility_actor_Indirect..knowingly.sanctioning...ordering...ideological...material.support.by.official.members.of.state.entities.agencies.units.for.officially.non.state.actors.,3.4630669704474633,53,Extra Trees,0.0024319924529194233
+target_critical_infrastructure,3.4472690034715714,54,Extra Trees,0.0024208980857631695
+zero_days_No,3.3516555100115495,55,Extra Trees,0.002353752028099148
+zero_days_Not.available,3.343521734075908,56,Extra Trees,0.0023480399578856568
+attribution_available,3.2716210878410092,57,Extra Trees,0.002297546614703007
+attributing_actor_Not.available,3.2627418387155456,58,Extra Trees,0.0022913110243881225
+receiver_category_Critical.infrastructure,3.1519049081967996,59,Extra Trees,0.0022134740721066262
+inclusion_criterion_subcode_Not.available,3.1326142088399775,60,Extra Trees,0.0021999268795031674
+state_responsibility_actor_None.Negligent,3.1227470923312977,61,Extra Trees,0.0021929975440077914
+receiver_regions_other,3.1048546520196783,62,Extra Trees,0.0021804323004899775
+inclusion_criterion_subcode_Not.available.Not.available,3.0755401694347047,63,Extra Trees,0.002159845750759268
+il_breach_indicator_subcode_Civic...political.rights.Not.available,3.0262248570790278,64,Extra Trees,0.0021252133083358767
+mitre_impact_other,2.9286298318221253,65,Extra Trees,0.002056675689256394
+cyber_conflict_issue_System...ideology,2.774158244243594,66,Extra Trees,0.0019481956227756327
+receiver_regions_X..NATO....NORTHAM..,2.7226716659261916,67,Extra Trees,0.0019120383751788908
+incident_day_of_week,2.7211555437682446,68,Extra Trees,0.0019109736548955996
+il_breach_indicator_subcode_other,2.6812635720340583,69,Extra Trees,0.0018829588994728709
+source_disclosure_Incident.disclosed.by.victim,2.6154936494051344,70,Extra Trees,0.0018367709519605622
+state_affiliated_initiator,2.56681235639151,71,Extra Trees,0.001802583759446582
+initiator_country_Unknown,2.4863228699423097,72,Extra Trees,0.0017460587701078622
+source_disclosure_Incident.disclosed.by.authorities.of.victim.state,2.3564269686976123,73,Extra Trees,0.0016548373602454209
+target_government,2.3386884859480617,74,Extra Trees,0.0016423802358117071
+initiator_attributed,2.115876942099737,75,Extra Trees,0.00148590737586224
+cyber_conflict_issue_Not.available,2.1000664340055173,76,Extra Trees,0.00147480420151127
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized,2.075869593223313,77,Extra Trees,0.001457811595053183
+mitre_impact_Data.Destruction,2.043658922857158,78,Extra Trees,0.0014351911525660882
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source.,2.0430517890071855,79,Extra Trees,0.0014347647834101794
+initiator_category_State.affiliated.actor,2.038807077982209,80,Extra Trees,0.0014317838693055258
+il_breach_indicator_other,2.0155295725415745,81,Extra Trees,0.0014154368803395289
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse.Ransomware,1.9920965087844296,82,Extra Trees,0.0013989806481348155
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized,1.9794725334142165,83,Extra Trees,0.0013901152657762896
+offline_conflict_intensity_subcode_Not.available,1.9635958883870122,84,Extra Trees,0.0013789656457390968
+initiator_category_Not.attributed,1.9460620568052969,85,Extra Trees,0.0013666522407598156
+il_breach_indicator_Human.rights.Sovereignty,1.8927915390490084,86,Extra Trees,0.0013292421940434324
+il_breach_indicator_subcode_Not.available.Not.available,1.8876884969864058,87,Extra Trees,0.0013256585036646187
+number_attributions,1.8753670959060644,88,Extra Trees,0.0013170056087906533
+cyber_conflict_issue_System...ideology.Territory.Resources.International.power,1.8728445143911774,89,Extra Trees,0.0013152340868251725
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5.HIIK.5,1.8569131643926566,90,Extra Trees,0.0013040460493740184
+initiator_country_Not.attributed,1.8089342695609347,91,Extra Trees,0.001270352126869515
+source_disclosure_other,1.7996619828972449,92,Extra Trees,0.001263840519851853
+incident_period_X2000.2009,1.7807404231642534,93,Extra Trees,0.0012505525612704013
+target_corporate,1.7751792724105662,94,Extra Trees,0.0012466471569631994
+mitre_impact_Defacement,1.7484831235360117,95,Extra Trees,0.0012278993726613147
+initiator_country_Iran..Islamic.Republic.of,1.7277879169783084,96,Extra Trees,0.0012133658431080472
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available,1.7245042973682443,97,Extra Trees,0.0012110598703451519
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,1.718886568444865,98,Extra Trees,0.0012071147331413974
+receiver_regions_X..Not.available..,1.6875381445679738,99,Extra Trees,0.0011850998166150596
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals,1.6840629103019669,100,Extra Trees,0.0011826592794902566
+mitre_initial_access_Exploit.Public.Facing.Application,1.6814771011990297,101,Extra Trees,0.0011808433549711243
+initiator_category_Unknown,1.6768565850680466,102,Extra Trees,0.0011775985259062992
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Not.available,1.663498006184776,103,Extra Trees,0.0011682172568453532
+offline_conflict_issue_System.ideology.Territory.Resources.International.power.Third.party.intervention...third.party.affection,1.6609842476742278,104,Extra Trees,0.001166451930971414
+offline_conflict_issue_System.ideology.Territory.Resources.International.power,1.638054497263537,105,Extra Trees,0.0011503491583649342
+target_social_groups,1.6045023346411158,106,Extra Trees,0.0011267866321495344
+exploit_public_facing,1.597903979345577,107,Extra Trees,0.001122152834877529
+initiator_country_Russia,1.5869916783721378,108,Extra Trees,0.0011144895023928096
+user_interaction_Not.available,1.5785169203707246,109,Extra Trees,0.0011085379722388627
+initiator_country_other,1.5694693037142202,110,Extra Trees,0.0011021841432158324
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,1.5572908861758188,111,Extra Trees,0.0010936316607502489
+cyber_conflict_issue_International.power,1.5455858218324343,112,Extra Trees,0.0010854115979022094
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty,1.5317894579001199,113,Extra Trees,0.0010757228875054876
+user_interaction_None,1.4705748947538877,114,Extra Trees,0.0010327340117919001
+initiator_category_State,1.4512284200360832,115,Extra Trees,0.0010191476500767474
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source..Incident.disclosed.by.victim,1.4411782274693001,116,Extra Trees,0.0010120897465821334
+cyber_conflict_issue_other,1.4106781810427023,117,Extra Trees,9.90670616268984e-4
+incident_type_Data.theft...Doxing.Disruption,1.3891338456495286,118,Extra Trees,9.75540772830642e-4
+physical_effects_temporal_none,1.3845962417823754,119,Extra Trees,9.723541701881212e-4
+mitre_initial_access_Phishing,1.3566949977371197,120,Extra Trees,9.527600891252426e-4
+initiator_subcategory_Non.state.group..state.affiliation.suggested..widely.held.view.for.the.attributed.initiator..group...but.not.invoked.in.this.case.,1.3403880621923454,121,Extra Trees,9.413082909031568e-4
+initiator_country_Korea..Democratic.People.s.Republic.of,1.3379035288896983,122,Extra Trees,9.395634888844179e-4
+inclusion_criterion_Attack.on..inter.alia..political.target.s...politicized,1.3372563337685957,123,Extra Trees,9.391089860799617e-4
+target_education,1.33114548830061,124,Extra Trees,9.348175501401082e-4
+physical_effects_spatial_none,1.3217563497502836,125,Extra Trees,9.282238820740071e-4
+receiver_regions_X..EUROPE....EASTEU....CSTO....SCO..,1.2747750463375505,126,Extra Trees,8.95230533604826e-4
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated..Not.available,1.2554336219623443,127,Extra Trees,8.816477185710367e-4
+receiver_regions_X..EUROPE....NATO....EU..,1.2354669110554901,128,Extra Trees,8.676257863792896e-4
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5,1.2348850075756075,129,Extra Trees,8.672171356418136e-4
+physical_effects_temporal_other,1.2321593560503614,130,Extra Trees,8.653030046142434e-4
+inclusion_criterion_other,1.2305025886526968,131,Extra Trees,8.641395140315469e-4
+state_responsibility_actor_Direct..official.members.of.state.entities...agencies...units.responsible.,1.2280358683427066,132,Extra Trees,8.62407221462979e-4
+source_disclosure_Incident.disclosed.by.third.party.actor..e.g...Citizen.Lab..Amnesty.International..whistleblowers..or.authorities.of.another.state,1.227240291153646,133,Extra Trees,8.61848515051575e-4
+receiver_regions_X..NATO....NORTHAM.....NATO....NORTHAM..,1.209068641969384,134,Extra Trees,8.490871927755826e-4
+physical_effects_spatial_other,1.1983015996196118,135,Extra Trees,8.415258704106483e-4
+offline_conflict_intensity_Yes...HIIK.intensity,1.1382757678610855,136,Extra Trees,7.993717997378295e-4
+cyber_conflict_issue_System...ideology.International.power,1.1374400761110204,137,Extra Trees,7.987849222542379e-4
+phishing_used,1.113785849046717,138,Extra Trees,7.821733746893361e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on.critical.infrastructure.target.s.,1.0988325116557036,139,Extra Trees,7.716721617496963e-4
+offline_conflict_intensity_subcode_other,1.089700442566961,140,Extra Trees,7.652590246972265e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies.,1.0841385092054066,141,Extra Trees,7.613530707915204e-4
+receiver_regions_X..EUROPE....NATO....EU....WESTEU..,1.078315949072748,142,Extra Trees,7.572640876964389e-4
+attributing_company_other,1.0697030111597696,143,Extra Trees,7.512155185579908e-4
+initiator_country_China,1.057548835154047,144,Extra Trees,7.426800600844423e-4
+initiator_country_Ukraine,1.0367216498001193,145,Extra Trees,7.280538463760307e-4
+offline_conflict_issue_other,1.0213333389578343,146,Extra Trees,7.172471665887265e-4
+mitre_initial_access_other,1.010125429254161,147,Extra Trees,7.093762382916588e-4
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Economic..social.and.cultural.rights,1.002760050353634,148,Extra Trees,0.00070420378680520685
+il_breach_indicator_Human.rights.Sovereignty.Human.rights,0.9737302250807169,149,Extra Trees,6.838171420836981e-4
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated,0.971477181424305,150,Extra Trees,6.822349072568088e-4
+attributing_company_Not.available,0.9552681779176557,151,Extra Trees,6.708518833263124e-4
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized.Attack.on.critical.infrastructure.target.s.,0.9317663431297053,152,Extra Trees,6.543473555993567e-4
+il_breach_indicator_Due.diligence.Sovereignty,0.8762260029555445,153,Extra Trees,6.153432909108001e-4
+receiver_regions_X..ASIA....MENA....MEA..,0.8750708959915687,154,Extra Trees,6.145320991427296e-4
+receiver_category_State.institutions...political.system.State.institutions...political.system,0.8521102840062186,155,Extra Trees,5.984076535171321e-4
+mitre_initial_access_Valid.Accounts,0.8464957978419251,156,Extra Trees,5.944647935912041e-4
+target_media,0.8244932416233475,157,Extra Trees,5.790131574764101e-4
+receiver_regions_X..ASIA....SCS....NEA..,0.8075952620847852,158,Extra Trees,5.671462894492924e-4
+cyber_conflict_issue_Cyber.specific,0.803084945437047,159,Extra Trees,5.639788496795213e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity,0.7986530148705554,160,Extra Trees,5.608664577501854e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,0.7916662274981147,161,Extra Trees,5.559598780319961e-4
+initiator_category_Individual.hacker.s.,0.7770680157168963,162,Extra Trees,5.457080575558085e-4
+attribution_legal_reference_Not.available,0.7705408036321002,163,Extra Trees,5.411242217061721e-4
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source..Incident.disclosed.by.authorities.of.victim.state,0.751922034730624,164,Extra Trees,5.280489026790064e-4
+incident_period_unknown,0.7454350326927809,165,Extra Trees,5.234933049580449e-4
+receiver_category_Corporate.Targets..corporate.targets.only.coded.if.the.respective.company.is.not.part.of.the.critical.infrastructure.definition.,0.7431280738252986,166,Extra Trees,5.218732073385676e-4
+source_disclosure_Not.available,0.7425228731715665,167,Extra Trees,5.214481957996807e-4
+offline_conflict_issue_System.ideology.International.power,0.7355855261337556,168,Extra Trees,5.165763363227445e-4
+receiver_category_State.institutions...political.system.Education,0.7319262160421595,169,Extra Trees,5.140065290964917e-4
+receiver_category_Critical.infrastructure.Critical.infrastructure,0.7309657517025501,170,Extra Trees,5.133320281280838e-4
+receiver_regions_X..EUROPE....NATO....NORTHEU..,0.7011774964592952,171,Extra Trees,4.924127642052515e-4
+offline_conflict_intensity_other,0.699006541637795,172,Extra Trees,4.908881775349466e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...politicized,0.6955943094101924,173,Extra Trees,4.884918845680608e-4
+zero_days_subcode_Not.available,0.6942980499542878,174,Extra Trees,4.8758156627485774e-4
+receiver_category_State.institutions...political.system.Critical.infrastructure,0.6937793019337428,175,Extra Trees,4.8721726743752706e-4
+zero_days_Yes,0.6847498239967058,176,Extra Trees,4.8087617661136874e-4
+receiver_category_Social.groups,0.6781762093051266,177,Extra Trees,4.7625975381194037e-4
+receiver_regions_X..SOUTHAM..,0.6765539276930544,178,Extra Trees,4.751204814066598e-4
+offline_conflict_issue_System.ideology,0.669224863142209,179,Extra Trees,4.699735322350957e-4
+attribution_legal_reference_other,0.6637712954587794,180,Extra Trees,4.661436798063764e-4
+attributing_actor_Microsoft,0.6515728904333018,181,Extra Trees,4.575771608182141e-4
+zero_days_subcode_One,0.6472184466774793,182,Extra Trees,4.545191852026128e-4
+settled_initiator_True,0.6466351916339986,183,Extra Trees,4.541095853086527e-4
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5,0.5948951463916994,184,Extra Trees,4.177743366355025e-4
+receiver_regions_X..EUROPE....EASTEU..,0.5885394230306804,185,Extra Trees,4.1331093139998536e-4
+offline_conflict_intensity_subcode_Not.available.Not.available,0.5841158904100501,186,Extra Trees,4.1020443705828746e-4
+cyber_conflict_issue_Other,0.565070032240412,187,Extra Trees,3.9682918797324056e-4
+il_breach_indicator_Human.rights,0.5635649255947452,188,Extra Trees,3.95772203504174e-4
+initiator_category_other,0.56249154058142,189,Extra Trees,3.9501840224252923e-4
+offline_conflict_issue_International.power,0.5448225020882667,190,Extra Trees,3.8261004611416373e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...politicized,0.5436300822372612,191,Extra Trees,3.817726507928766e-4
+attribution_legal_reference_subcode_Not.available.Not.available,0.5375752956665593,192,Extra Trees,3.775205830824788e-4
+receiver_regions_X..EUROPE....NATO....EU....WESTEU.....EUROPE....NATO....EU....WESTEU..,0.5374803401133768,193,Extra Trees,3.7745389907357186e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...not.politicized,0.534502082702174,194,Extra Trees,3.753623716475341e-4
+initiator_subcategory_other,0.5312642720401649,195,Extra Trees,3.7308856892838806e-4
+attribution_legal_reference_Not.available.Not.available,0.5255879063795769,196,Extra Trees,3.691022531671375e-4
+offline_conflict_intensity_subcode_HIIK.3,0.5205689907224227,197,Extra Trees,3.6557764186039715e-4
+initiator_country_United.States,0.49372317298880203,198,Extra Trees,3.4672475028256554e-4
+attribution_legal_reference_subcode_Not.available,0.48610355374202985,199,Extra Trees,3.4137375457257636e-4
+cyber_conflict_issue_System...ideology.National.power,0.4853944501446923,200,Extra Trees,3.4087577558118535e-4
+receiver_regions_X..EUROPE....NATO....EU....NORTHEU..,0.4787486632062162,201,Extra Trees,3.362086687028e-4
+offline_conflict_issue_System.ideology.Territory.International.power,0.47816050713212993,202,Extra Trees,3.357956269841377e-4
+attributing_company_Not.available.Not.available,0.47254862313959806,203,Extra Trees,3.3185459447365945e-4
+receiver_regions_X..AFRICA....SSA..,0.4689036981442253,204,Extra Trees,3.292948894041792e-4
+receiver_regions_X..Not.available.....Not.available..,0.4686061571320563,205,Extra Trees,3.2908593661689435e-4
+settled_initiator_True.True,0.4628911520653106,206,Extra Trees,3.2507248573381025e-4
+offline_conflict_intensity_subcode_HIIK.3.HIIK.3,0.45633382470899353,207,Extra Trees,3.2046750096800173e-4
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty.Human.rights,0.43335069070362026,208,Extra Trees,3.043272389047817e-4
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Not.available.Economic..social.and.cultural.rights,0.43225671397257354,209,Extra Trees,3.035589767902228e-4
+receiver_regions_X..ASIA....SASIA....SCO..,0.41562113515034266,210,Extra Trees,2.918763837330102e-4
+receiver_category_Unknown,0.4061746600638711,211,Extra Trees,2.8524245019576137e-4
+inclusion_criterion_subcode_other,0.3729850028023194,212,Extra Trees,2.6193449898838215e-4
+settled_initiator_other,0.3703338110957555,213,Extra Trees,2.6007265852250955e-4
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available.Not.available,0.3662875392195899,214,Extra Trees,2.5723110138565076e-4
+offline_conflict_intensity_subcode_HIIK.2.HIIK.2.HIIK.2,0.3580715094163323,215,Extra Trees,2.5146126711880095e-4
+offline_conflict_intensity_subcode_HIIK.2.HIIK.2,0.35530433333128336,216,Extra Trees,2.495179748255339e-4
+initiator_subcategory_Not.available.Not.available,0.3431955786957646,217,Extra Trees,2.410144142131818e-4
+initiator_category_State.State,0.33988083689600546,218,Extra Trees,2.386865854102207e-4
+receiver_category_State.institutions...political.system.Critical.infrastructure.Education,0.33558641377463777,219,Extra Trees,2.356707602154052e-4
+offline_conflict_issue_System.ideology.National.power,0.326385532056634,220,Extra Trees,2.2920929842753276e-4
+cyber_conflict_issue_System...ideology.Territory.International.power,0.32352304748830024,221,Extra Trees,2.271990742747245e-4
+inclusion_criterion_subcode_Not.available.Not.available.Not.available,0.3175751755643352,222,Extra Trees,2.2302208903203215e-4
+il_breach_indicator_Cyber.espionage.Sovereignty,0.30913459224144646,223,Extra Trees,2.170945585757411e-4
+offline_conflict_intensity_subcode_HIIK.3.HIIK.3.HIIK.3,0.27673527058381725,224,Extra Trees,1.94341632795365e-4
+receiver_category_Media,0.25631305883020816,225,Extra Trees,1.7999981807432822e-4
+attributing_actor_NoName057.16.,0.2562557554693219,226,Extra Trees,1.799595759010201e-4
+initiator_subcategory_Hacktivist.s..Hacktivist.s.,0.2514694581309391,227,Extra Trees,1.7659832441391094e-4
+attributing_actor_Not.available.Not.available,0.24664981681436451,228,Extra Trees,1.7321365660132932e-4
+il_breach_indicator_subcode_Not.available.Not.available.Not.available,0.24512505348357452,229,Extra Trees,1.7214286792048252e-4
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5,0.23570489667668812,230,Extra Trees,1.655274168029706e-4
+user_interaction_other,0.22006178799673565,231,Extra Trees,1.5454180128513756e-4
+receiver_category_Critical.infrastructure.Critical.infrastructure.Critical.infrastructure,0.2167209015214383,232,Extra Trees,1.5219561197857216e-4
+offline_conflict_issue_Territory.Resources.International.power,0.2131441528130272,233,Extra Trees,1.4968378476325233e-4
+initiator_category_Non.state.group.Non.state.group,0.2124593024328102,234,Extra Trees,1.4920283796947677e-4
+initiator_country_China.China,0.19976517723580844,235,Extra Trees,1.4028819180785963e-4
+attribution_legal_reference_subcode_other,0.1843792781637578,236,Extra Trees,1.2948320572358179e-4
+initiator_country_Pakistan,0.17695274196234845,237,Extra Trees,1.2426780557472854e-4
+receiver_category_International...supranational.organization,0.17010437220339003,238,Extra Trees,1.1945843177089579e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized.Attack.on.critical.infrastructure.target.s.,0.14649737735486104,239,Extra Trees,1.0288005376155802e-4
+initiator_category_State.affiliated.actor.State.affiliated.actor,0.14640285444487677,240,Extra Trees,1.0281367358304243e-4
+il_breach_indicator_subcode_Non.state.actors.Not.available,0.13294459576859186,241,Extra Trees,9.336240284254816e-5
+zero_days_subcode_other,0.1274634852387592,242,Extra Trees,8.951320802306483e-5
+initiator_country_Turkey,0.12725777455460488,243,Extra Trees,8.936874450687602e-5
+initiator_country_Unknown.Unknown,0.10820258316780956,244,Extra Trees,7.598694102542802e-5
+evidence_for_sanctions_indicator_Not.available,0.08369570090188502,245,Extra Trees,5.8776603130168565e-5
+zero_days_other,0.0755984387153533,246,Extra Trees,5.3090175262904275e-5
+evidence_for_sanctions_indicator_other,0.0546359326001799,247,Extra Trees,3.8368930452616426e-5
+is_hijacking,146.41907109905588,1,Random Forest,0.10268041384854167
+incident_type_Data.theft.Hijacking.with.Misuse,143.35721691091604,2,Random Forest,0.10053320411129783
+is_data_theft,81.78879038347496,3,Random Forest,0.05735664610974974
+is_disruption,60.53126618075245,4,Random Forest,0.0424492206893667
+has_disruption,53.02898191794826,5,Random Forest,0.03718803683447811
+incident_type_Disruption,52.91909448507942,6,Random Forest,0.037110975239980686
+data_exfiltration,52.35553991294898,7,Random Forest,0.03671576704573224
+mitre_impact_Data.Exfiltration,51.755216943060034,8,Random Forest,0.03629477399798042
+incident_type_Disruption.Hijacking.with.Misuse,44.04775184885271,9,Random Forest,0.030889701423377127
+incident_type_Hijacking.without.Misuse,42.82633904353467,10,Random Forest,0.030033151990379297
+is_ransomware,32.178002635884624,11,Random Forest,0.022565712257775705
+mitre_impact_Not.available,29.130999648172068,12,Random Forest,0.020428917334630713
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse.Ransomware,28.514114816110144,13,Random Forest,0.01999630982402744
+incident_year,27.54282397862445,14,Random Forest,0.019315165322756452
+incident_type_Data.theft,26.641641193202357,15,Random Forest,0.0186831860275339
+incident_type_Hijacking.with.Misuse,23.65985516336287,16,Random Forest,0.016592126295672967
+incident_type_Disruption.Hijacking.with.Misuse.Ransomware,20.22535844899845,17,Random Forest,0.014183590704337222
+source_disclosure_Incident.disclosed.by.attacker,19.45459944455735,18,Random Forest,0.013643074684399075
+initiator_subcategory_Hacktivist.s.,17.912650763343247,19,Random Forest,0.012561740623666204
+offline_conflict_issue_Not.available,14.580231190911721,20,Random Forest,0.010224789444794425
+mitre_impact_Network.Denial.of.Service,13.294353514883671,21,Random Forest,0.009323032242388484
+mitre_data_encryption,12.558846967201076,22,Random Forest,0.00880723798049709
+source_disclosure_Incident.disclosed.by.IT.security.company,12.234501259501682,23,Random Forest,0.008579781603082696
+il_breach_indicator_Not.available,11.689708455788626,24,Random Forest,0.008197730616643098
+mitre_impact_Data.Encrypted.for.Impact,11.514347844498628,25,Random Forest,0.008074754149132193
+incident_type_Data.theft...Doxing,10.844531201444676,26,Random Forest,0.007605026745487543
+offline_conflict_intensity_Not.available,10.46998866508757,27,Random Forest,0.0073423684568619295
+incident_type_Data.theft...Doxing.Disruption.Hijacking.with.Misuse.Ransomware,10.418978249078323,28,Random Forest,0.0073065959950705806
+incident_month,10.189393128703705,29,Random Forest,0.007145593094310578
+il_breach_indicator_subcode_Not.available,8.967053453295291,30,Random Forest,0.006288393668086125
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse,8.918538845891149,31,Random Forest,0.006254371460947639
+incident_period_X2020.2024,8.529740704476085,32,Random Forest,0.005981716035910593
+initiator_category_Non.state.group,8.271026117255223,33,Random Forest,0.005800285292735607
+is_doxing,8.207371407045022,34,Random Forest,0.0057556456707332886
+end_date_missing,7.686779270887053,35,Random Forest,0.005390566070202062
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse,7.437026955890291,36,Random Forest,0.0052154203677262576
+incident_type_other,7.35519167181412,37,Random Forest,0.005158031116631574
+incident_day_of_week,6.878220229461086,38,Random Forest,0.0048235417312863255
+initiator_subcategory_Criminal.s.,6.78625392437287,39,Random Forest,0.004759047822154838
+inclusion_criterion_Attack.on.critical.infrastructure.target.s.,5.800518094474257,40,Random Forest,0.004067773371363858
+incident_type_Data.theft.Hijacking.with.Misuse.Ransomware,5.296805243313014,41,Random Forest,0.003714530835198098
+cyber_conflict_issue_Unknown,5.28235990326526,42,Random Forest,0.003704400641889586
+initiator_subcategory_Not.available,4.610862857510049,43,Random Forest,0.003233494809482192
+attributing_actor_other,4.587199450961316,44,Random Forest,0.003216900192679533
+mitre_initial_access_Not.available,4.4566809952979565,45,Random Forest,0.003125370524161695
+state_responsibility_actor_Not.available,4.05725330926561,46,Random Forest,0.0028452608376535746
+il_breach_indicator_Sovereignty,3.9707909090794584,47,Random Forest,0.002784626693707626
+incident_period_X2010.2014,3.9125598849530823,48,Random Forest,0.0027437905812310232
+offline_conflict_intensity_Unknown,3.8516711578000002,49,Random Forest,0.0027010906811711483
+receiver_category_State.institutions...political.system,3.6733514820505246,50,Random Forest,0.0025760390880565686
+receiver_category_other,3.533221287389404,51,Random Forest,0.002477768922343344
+offline_conflict_issue_Unknown,3.530956282486801,52,Random Forest,0.0024761805251555837
+target_critical_infrastructure,3.471809947984391,53,Random Forest,0.0024347025260210097
+zero_days_Not.available,3.324654777246549,54,Random Forest,0.002331505901989075
+zero_days_No,3.181472847865535,55,Random Forest,0.0022310956230949482
+inclusion_criterion_subcode_Not.available,3.1759578892031484,56,Random Forest,0.00222722810615497
+receiver_regions_other,3.037651428238075,57,Random Forest,0.0021302368840196147
+mitre_impact_other,2.991099113641791,58,Random Forest,0.0020975907888595097
+incident_period_X2015.2019,2.9811774704051177,59,Random Forest,0.002090632962765189
+attributing_actor_Not.available,2.8982273974265373,60,Random Forest,0.0020324619351915667
+inclusion_criterion_subcode_Not.available.Not.available,2.85389902731852,61,Random Forest,0.0020013754424706614
+number_attributions,2.772345691173477,62,Random Forest,0.0019441839151426597
+initiator_country_Unknown,2.7357509567616343,63,Random Forest,0.00191852084785313
+state_affiliated_initiator,2.6385278342075025,64,Random Forest,0.0018503404504187544
+cyber_conflict_issue_System...ideology,2.6304077785149995,65,Random Forest,0.0018446460373022053
+state_responsibility_actor_None.Negligent,2.624322255151748,66,Random Forest,0.0018403783961217686
+il_breach_indicator_subcode_Civic...political.rights.Not.available,2.592107237161149,67,Random Forest,0.0018177867258251095
+state_responsibility_actor_Indirect..knowingly.sanctioning...ordering...ideological...material.support.by.official.members.of.state.entities.agencies.units.for.officially.non.state.actors.,2.5822195730966557,68,Random Forest,0.0018108527285628905
+source_disclosure_Incident.disclosed.by.victim,2.5718918781131834,69,Random Forest,0.001803610147476667
+receiver_category_Critical.infrastructure,2.4863145114296166,70,Random Forest,0.001743596657695733
+receiver_regions_X..NATO....NORTHAM..,2.391235425062699,71,Random Forest,0.0016769198247994798
+initiator_attributed,2.388763071168426,72,Random Forest,0.00167518601840979
+target_government,2.3875542065425708,73,Random Forest,0.0016743382687338909
+il_breach_indicator_subcode_other,2.334400656989522,74,Random Forest,0.0016370628754080196
+attribution_available,2.306457300158608,75,Random Forest,0.0016174668253704217
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized,2.116897854865252,76,Random Forest,0.0014845330337166424
+source_disclosure_Incident.disclosed.by.authorities.of.victim.state,2.089931571561538,77,Random Forest,0.0014656221834510432
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source.,2.0718663879211583,78,Random Forest,0.0014529534749384125
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse.Ransomware,2.0701125948941463,79,Random Forest,0.0014517235791846246
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized,2.031392527390808,80,Random Forest,0.001424570063418932
+offline_conflict_intensity_subcode_Not.available,2.0281009796859086,81,Random Forest,0.0014222617747649724
+initiator_country_Not.attributed,2.0223512787831064,82,Random Forest,0.0014182296383515017
+initiator_category_State.affiliated.actor,1.9434088107194512,83,Random Forest,0.0013628690543090198
+cyber_conflict_issue_Not.available,1.9069067284745373,84,Random Forest,0.0013372709619081631
+il_breach_indicator_Human.rights.Sovereignty,1.9016213226415428,85,Random Forest,0.0013335644252240025
+initiator_country_Russia,1.8875334006490916,86,Random Forest,0.0013236848811892486
+incident_period_X2000.2009,1.886708512419214,87,Random Forest,0.0013231064055563488
+il_breach_indicator_other,1.8669093510736952,88,Random Forest,0.0013092216973311713
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,1.8520266919125563,89,Random Forest,0.0012987848219271558
+offline_conflict_issue_System.ideology.Territory.Resources.International.power.Third.party.intervention...third.party.affection,1.8468411225654078,90,Random Forest,0.0012951482983335502
+source_disclosure_other,1.8459715316560266,91,Random Forest,0.0012945384737131373
+mitre_impact_Data.Destruction,1.844946314940328,92,Random Forest,0.0012938195122017566
+initiator_category_Not.attributed,1.8223756080806168,93,Random Forest,0.001277991181207624
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5.HIIK.5,1.8118436595196228,94,Random Forest,0.0012706053616640565
+target_corporate,1.7919416943069286,95,Random Forest,0.0012566485593902856
+mitre_impact_Defacement,1.744383645464708,96,Random Forest,0.0012232971653383133
+initiator_country_other,1.7123140244248625,97,Random Forest,0.0012008074586654066
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals,1.6705891548474714,98,Random Forest,0.0011715467425317515
+cyber_conflict_issue_System...ideology.Territory.Resources.International.power,1.6259913394376588,99,Random Forest,0.001140271293857976
+receiver_regions_X..Not.available..,1.607152024908974,100,Random Forest,0.0011270597046988047
+exploit_public_facing,1.6048025579078857,101,Random Forest,0.0011254120761338615
+initiator_category_Unknown,1.5547962917188052,102,Random Forest,0.0010903438021120887
+target_social_groups,1.536710176048579,103,Random Forest,0.0010776604144359366
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available,1.5201180377838268,104,Random Forest,0.0010660247196397007
+mitre_initial_access_Exploit.Public.Facing.Application,1.51240186781733,105,Random Forest,0.001060613542533205
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Not.available,1.5037333621590037,106,Random Forest,0.0010545345137443717
+offline_conflict_issue_System.ideology.Territory.Resources.International.power,1.4882185791492206,107,Random Forest,0.0010436543440488742
+initiator_country_Iran..Islamic.Republic.of,1.4773658079277192,108,Random Forest,0.0010360435387619495
+il_breach_indicator_subcode_Not.available.Not.available,1.4493085598794224,109,Random Forest,0.0010163676193654845
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty,1.4473889266018578,110,Random Forest,0.0010150214235598546
+user_interaction_None,1.4464877754475516,111,Random Forest,0.0010143894664468248
+target_education,1.4222929656401082,112,Random Forest,9.974221884456256e-4
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5,1.4122499657217642,113,Random Forest,9.903792576296064e-4
+offline_conflict_intensity_Yes...HIIK.intensity,1.4082075595367978,114,Random Forest,9.875444087475544e-4
+phishing_used,1.4080757432049549,115,Random Forest,9.874519689075526e-4
+user_interaction_Not.available,1.3764537466591211,116,Random Forest,9.652761712626766e-4
+initiator_category_State,1.3663330267260485,117,Random Forest,9.581787371417482e-4
+cyber_conflict_issue_International.power,1.3655329613960543,118,Random Forest,9.576176692523467e-4
+physical_effects_spatial_none,1.3520925333382825,119,Random Forest,9.481921982060244e-4
+inclusion_criterion_Attack.on..inter.alia..political.target.s...politicized,1.3473729988476602,120,Random Forest,9.448824944151724e-4
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source..Incident.disclosed.by.victim,1.3339013634769636,121,Random Forest,9.354351383795372e-4
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated..Not.available,1.3129713302298593,122,Random Forest,9.207573750284606e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,1.2895574329861614,123,Random Forest,9.043377335108357e-4
+source_disclosure_Incident.disclosed.by.third.party.actor..e.g...Citizen.Lab..Amnesty.International..whistleblowers..or.authorities.of.another.state,1.2618977508687421,124,Random Forest,8.849406181937038e-4
+cyber_conflict_issue_other,1.2538754076746195,125,Random Forest,8.793147286628907e-4
+incident_type_Data.theft...Doxing.Disruption,1.2328247016491025,126,Random Forest,8.645523401961467e-4
+physical_effects_temporal_none,1.2191170727014802,127,Random Forest,8.549394871527621e-4
+receiver_regions_X..EUROPE....NATO....EU..,1.1999063527508234,128,Random Forest,8.414674396929923e-4
+state_responsibility_actor_Direct..official.members.of.state.entities...agencies...units.responsible.,1.1883329545535568,129,Random Forest,8.333512748545654e-4
+physical_effects_spatial_other,1.1875542004808013,130,Random Forest,8.328051520723584e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on.critical.infrastructure.target.s.,1.173067092022643,131,Random Forest,8.226456675135058e-4
+physical_effects_temporal_other,1.137121959929837,132,Random Forest,7.974381517751164e-4
+offline_conflict_intensity_subcode_other,1.1200106416766007,133,Random Forest,7.854383676858719e-4
+offline_conflict_issue_other,1.0918882734652753,134,Random Forest,7.657167809781784e-4
+initiator_subcategory_Non.state.group..state.affiliation.suggested..widely.held.view.for.the.attributed.initiator..group...but.not.invoked.in.this.case.,1.081332632140819,135,Random Forest,7.583143462304624e-4
+il_breach_indicator_Human.rights.Sovereignty.Human.rights,1.0584015333972938,136,Random Forest,7.422332804832688e-4
+il_breach_indicator_Due.diligence.Sovereignty,1.046325491497847,137,Random Forest,7.337646228789008e-4
+initiator_country_Korea..Democratic.People.s.Republic.of,1.0407665308532899,138,Random Forest,7.298662483347492e-4
+receiver_regions_X..EUROPE....NATO....EU....WESTEU..,1.038981077639308,139,Random Forest,7.286141500012278e-4
+mitre_initial_access_Phishing,1.0275570739889763,140,Random Forest,7.206027522111836e-4
+receiver_regions_X..EUROPE....EASTEU....CSTO....SCO..,1.0085602783729992,141,Random Forest,7.072807250940667e-4
+cyber_conflict_issue_System...ideology.International.power,1.0051769950493465,142,Random Forest,7.049081043061333e-4
+inclusion_criterion_other,1.0016359038487357,143,Random Forest,7.024248163899835e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies.,0.9875416801820063,144,Random Forest,6.925408531322559e-4
+attributing_company_Not.available,0.9864796541906043,145,Random Forest,6.917960781005848e-4
+receiver_regions_X..NATO....NORTHAM.....NATO....NORTHAM..,0.9504746170463066,146,Random Forest,6.665465522918361e-4
+initiator_country_China,0.9037782777126578,147,Random Forest,6.337994558104822e-4
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source..Incident.disclosed.by.authorities.of.victim.state,0.8965338904535393,148,Random Forest,6.287191293457545e-4
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Economic..social.and.cultural.rights,0.883596198868787,149,Random Forest,6.196462161234842e-4
+mitre_initial_access_other,0.8792647955624804,150,Random Forest,6.166087000355995e-4
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated,0.8695693191928209,151,Random Forest,6.098094796975474e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity,0.8613035374142798,152,Random Forest,6.040128721420458e-4
+attributing_company_other,0.8514026836125242,153,Random Forest,5.970696252126181e-4
+cyber_conflict_issue_Cyber.specific,0.8445262941255007,154,Random Forest,5.92247367339983e-4
+initiator_category_Individual.hacker.s.,0.8258422822786248,155,Random Forest,5.791446884718021e-4
+initiator_country_Ukraine,0.8168100092937581,156,Random Forest,5.72810557807555e-4
+target_media,0.8150630278032065,157,Random Forest,5.715854388316653e-4
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized.Attack.on.critical.infrastructure.target.s.,0.8072320666784543,158,Random Forest,5.66093761257933e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...politicized,0.7866343505262569,159,Random Forest,5.5164904443951e-4
+receiver_category_State.institutions...political.system.State.institutions...political.system,0.7856209266838458,160,Random Forest,5.509383530059305e-4
+receiver_category_Critical.infrastructure.Critical.infrastructure,0.7804969969693102,161,Random Forest,5.473450559055589e-4
+attribution_legal_reference_Not.available,0.7490649967270313,162,Random Forest,5.253024984112471e-4
+receiver_regions_X..ASIA....MENA....MEA..,0.7480012940073371,163,Random Forest,5.245565475275939e-4
+receiver_category_Corporate.Targets..corporate.targets.only.coded.if.the.respective.company.is.not.part.of.the.critical.infrastructure.definition.,0.7443640619743733,164,Random Forest,5.220058381998779e-4
+zero_days_subcode_One,0.7329137529757372,165,Random Forest,5.139759930584738e-4
+receiver_regions_X..ASIA....SCS....NEA..,0.7288762759318167,166,Random Forest,5.111446008725934e-4
+incident_period_unknown,0.7269557570184195,167,Random Forest,5.09797783990398e-4
+mitre_initial_access_Valid.Accounts,0.7194397322318283,168,Random Forest,5.045269642140523e-4
+offline_conflict_issue_System.ideology,0.7044341695817063,169,Random Forest,4.940038993470284e-4
+receiver_category_State.institutions...political.system.Education,0.6982339607932382,170,Random Forest,4.89655831847566e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...politicized,0.6931759897301111,171,Random Forest,4.861087900715361e-4
+offline_conflict_issue_System.ideology.International.power,0.6787006733280438,172,Random Forest,4.7595757501740354e-4
+settled_initiator_True,0.6775363542960877,173,Random Forest,4.751410641684028e-4
+receiver_regions_X..EUROPE....NATO....NORTHEU..,0.6693656730867676,174,Random Forest,4.6941114851124154e-4
+zero_days_Yes,0.6532593934388756,175,Random Forest,4.581161754767038e-4
+initiator_country_United.States,0.6514053569542247,176,Random Forest,4.5681598123216134e-4
+attributing_actor_Microsoft,0.6193215939031685,177,Random Forest,4.3431635708366306e-4
+receiver_category_State.institutions...political.system.Critical.infrastructure,0.6118591985429441,178,Random Forest,4.2908314642239e-4
+offline_conflict_intensity_other,0.6056490352910644,179,Random Forest,4.2472809808078e-4
+source_disclosure_Not.available,0.6006064300413465,180,Random Forest,4.2119183200540263e-4
+receiver_regions_X..SOUTHAM..,0.5927835281354296,181,Random Forest,4.1570580618126204e-4
+initiator_subcategory_other,0.5855687595660187,182,Random Forest,4.106462506399803e-4
+receiver_category_Social.groups,0.5847966889951188,183,Random Forest,4.1010481484787196e-4
+zero_days_subcode_Not.available,0.5775415326043067,184,Random Forest,4.0501693623238417e-4
+receiver_regions_X..EUROPE....EASTEU..,0.5745586474370423,185,Random Forest,4.029251057000748e-4
+cyber_conflict_issue_System...ideology.National.power,0.5720213952341543,186,Random Forest,4.0114578758068567e-4
+offline_conflict_intensity_subcode_HIIK.3,0.5685804713423777,187,Random Forest,3.987327447538402e-4
+offline_conflict_intensity_subcode_HIIK.3.HIIK.3,0.5656737755079828,188,Random Forest,3.966943440935493e-4
+attribution_legal_reference_subcode_Not.available,0.558973527991457,189,Random Forest,3.9199561063813014e-4
+attribution_legal_reference_subcode_Not.available.Not.available,0.5414767768487131,190,Random Forest,3.7972553109960833e-4
+settled_initiator_True.True,0.5407634682767858,191,Random Forest,3.792253037807391e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,0.5398527001509505,192,Random Forest,3.7858660250105706e-4
+offline_conflict_intensity_subcode_Not.available.Not.available,0.5355287690464482,193,Random Forest,3.7555432650087316e-4
+initiator_category_other,0.5320397017793252,194,Random Forest,3.7310752180361336e-4
+receiver_regions_X..EUROPE....NATO....EU....WESTEU.....EUROPE....NATO....EU....WESTEU..,0.5307857799771716,195,Random Forest,3.7222817453954184e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...not.politicized,0.5298570809896621,196,Random Forest,3.7157689874833236e-4
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5,0.5232657552348853,197,Random Forest,3.669545496838914e-4
+attribution_legal_reference_other,0.5136086072519046,198,Random Forest,3.601822081846189e-4
+settled_initiator_other,0.4995760965953358,199,Random Forest,3.5034152287815516e-4
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available.Not.available,0.4897385663517962,200,Random Forest,3.4344268334125615e-4
+attribution_legal_reference_Not.available.Not.available,0.4772971090816942,201,Random Forest,3.34717768125063e-4
+receiver_regions_X..Not.available.....Not.available..,0.46974276330616505,202,Random Forest,3.2942007469780754e-4
+attributing_company_Not.available.Not.available,0.4652072232295603,203,Random Forest,3.2623940206686757e-4
+offline_conflict_issue_International.power,0.45723302883577616,204,Random Forest,3.206472782108943e-4
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty.Human.rights,0.45183249564076017,205,Random Forest,3.1686000528732903e-4
+receiver_category_Unknown,0.44994420928541,206,Random Forest,3.1553579237587887e-4
+offline_conflict_issue_System.ideology.Territory.International.power,0.44961327612331864,207,Random Forest,3.1530371636430003e-4
+il_breach_indicator_Human.rights,0.44904645514167885,208,Random Forest,3.149062175102509e-4
+receiver_regions_X..EUROPE....NATO....EU....NORTHEU..,0.42443788945293237,209,Random Forest,2.9764878178024234e-4
+receiver_regions_X..AFRICA....SSA..,0.4096996779437685,210,Random Forest,2.87313204278016e-4
+cyber_conflict_issue_Other,0.4008457561305845,211,Random Forest,2.8110414729427564e-4
+offline_conflict_intensity_subcode_HIIK.2.HIIK.2,0.38683023961212576,212,Random Forest,2.712753795960923e-4
+receiver_category_State.institutions...political.system.Critical.infrastructure.Education,0.3591999585937568,213,Random Forest,2.5189888261095385e-4
+receiver_regions_X..ASIA....SASIA....SCO..,0.3563079346771422,214,Random Forest,2.4987077103785847e-4
+offline_conflict_intensity_subcode_HIIK.2.HIIK.2.HIIK.2,0.3540505326818086,215,Random Forest,2.482877055986127e-4
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Not.available.Economic..social.and.cultural.rights,0.33281117529537935,216,Random Forest,2.333930201594446e-4
+il_breach_indicator_Cyber.espionage.Sovereignty,0.3323704407408987,217,Random Forest,2.330839428916288e-4
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5,0.3298951620497692,218,Random Forest,2.3134808540743734e-4
+cyber_conflict_issue_System...ideology.Territory.International.power,0.32637473189066246,219,Random Forest,2.2887928661675645e-4
+initiator_category_State.State,0.3014573702776602,220,Random Forest,2.1140529922404898e-4
+initiator_category_Non.state.group.Non.state.group,0.30037266237165566,221,Random Forest,2.106446178738854e-4
+initiator_subcategory_Not.available.Not.available,0.29094662759395595,222,Random Forest,2.0403435088707896e-4
+inclusion_criterion_subcode_other,0.2885382023215566,223,Random Forest,2.023453762075036e-4
+offline_conflict_issue_System.ideology.National.power,0.28086144477715347,224,Random Forest,1.9696183814953464e-4
+attributing_actor_Not.available.Not.available,0.27440717929889297,225,Random Forest,1.9243560638599754e-4
+inclusion_criterion_subcode_Not.available.Not.available.Not.available,0.2742602052703337,226,Random Forest,1.923325367929167e-4
+attribution_legal_reference_subcode_other,0.2695403336843757,227,Random Forest,1.890225966046589e-4
+receiver_category_Media,0.2589483780123309,228,Random Forest,1.8159469541865022e-4
+receiver_category_Critical.infrastructure.Critical.infrastructure.Critical.infrastructure,0.2536112920781804,229,Random Forest,1.7785191663751004e-4
+offline_conflict_issue_Territory.Resources.International.power,0.24723090589184638,230,Random Forest,1.7337749476603758e-4
+offline_conflict_intensity_subcode_HIIK.3.HIIK.3.HIIK.3,0.2320907185577726,231,Random Forest,0.00016276002062460269
+il_breach_indicator_subcode_Not.available.Not.available.Not.available,0.2315896468572995,232,Random Forest,1.6240863026823602e-4
+initiator_country_Pakistan,0.21384798235893324,233,Random Forest,1.4996679848102443e-4
+user_interaction_other,0.21382298834770677,234,Random Forest,1.4994927074097524e-4
+initiator_category_State.affiliated.actor.State.affiliated.actor,0.20153886902384596,235,Random Forest,1.4133469310111596e-4
+initiator_country_China.China,0.1882400917466807,236,Random Forest,1.3200855857335963e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized.Attack.on.critical.infrastructure.target.s.,0.15605402002925253,237,Random Forest,1.094371876494959e-4
+initiator_subcategory_Hacktivist.s..Hacktivist.s.,0.14265169408804934,238,Random Forest,1.0003843676379476e-4
+initiator_country_Turkey,0.13484926816477077,239,Random Forest,9.456677028748696e-5
+initiator_country_Unknown.Unknown,0.12380818025353277,240,Random Forest,8.682390272553479e-5
+attributing_actor_NoName057.16.,0.12255049328471308,241,Random Forest,8.594191503444394e-5
+receiver_category_International...supranational.organization,0.11834276969205418,242,Random Forest,8.299113275853265e-5
+zero_days_subcode_other,0.10805835678484145,243,Random Forest,7.577890442259769e-5
+il_breach_indicator_subcode_Non.state.actors.Not.available,0.06313641589578227,244,Random Forest,4.427615381268711e-5
+evidence_for_sanctions_indicator_Not.available,0.06176463794248032,245,Random Forest,4.331415667053847e-5
+zero_days_other,0.041271674056259144,246,Random Forest,2.894290026913123e-5
+evidence_for_sanctions_indicator_other,0.0352835617783462,247,Random Forest,2.4743571300217976e-5
+is_hijacking,577.2019231153,1,Decision Tree,0.2210852666886212
+incident_type_Disruption,349.11406640038297,2,Decision Tree,0.13372092743263375
+incident_type_Hijacking.without.Misuse,299.9145410311122,3,Decision Tree,0.11487606612567307
+incident_year,254.33771535820097,4,Decision Tree,0.09741880506124041
+initiator_subcategory_Hacktivist.s.,226.92414316024892,5,Decision Tree,0.08691860283121193
+source_disclosure_Incident.disclosed.by.attacker,214.70515083623562,6,Decision Tree,0.08223837037106979
+incident_type_Hijacking.with.Misuse,195.39199689345878,7,Decision Tree,0.07484086592931088
+il_breach_indicator_Not.available,173.5442880531516,8,Decision Tree,0.06647255261977641
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse.Ransomware,118.99257736273131,9,Decision Tree,0.04557764734777354
+incident_type_Data.theft...Doxing.Disruption.Hijacking.with.Misuse.Ransomware,62.085509307279665,10,Decision Tree,0.023780571119055155
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse,33.03343439036482,11,Decision Tree,0.012652774288099541
+incident_type_other,30.679855813746784,12,Decision Tree,0.011751284659520668
+mitre_impact_Defacement,9.700311902512105,13,Decision Tree,0.003715503982306202
+end_date_missing,5.862046978485331,14,Decision Tree,0.002245335934753579
+zero_days_Not.available,4.813333333333331,15,Decision Tree,0.0018436478484300837
+is_data_theft,4.3562485349015025,16,Decision Tree,0.0016685709636976172
+incident_period_X2020.2024,4.227633477633476,17,Decision Tree,0.001619307624305392
+mitre_impact_other,4.157276529648175,18,Decision Tree,0.0015923588495598503
+zero_days_No,3.850666666666665,19,Decision Tree,0.001474918278744067
+il_breach_indicator_subcode_Non.state.actors.Not.available,3.3824948236590995,20,Decision Tree,0.0012955947307406505
+is_ransomware,3.240597576398714,21,Decision Tree,0.0012412439229962401
+is_disruption,3.238636363636364,22,Decision Tree,0.0012404927209831614
+data_exfiltration,2.737824675324675,23,Decision Tree,0.001048667154856191
+has_disruption,2.5909090909090917,24,Decision Tree,9.923941767865292e-4
+cyber_conflict_issue_Not.available,2.258121212121212,25,Decision Tree,8.649266580792814e-4
+incident_day_of_week,1.9504043790573464,26,Decision Tree,7.470620852529831e-4
+offline_conflict_issue_other,1.9253333333333325,27,Decision Tree,7.374591393720335e-4
+incident_period_X2015.2019,1.8055555555555551,28,Decision Tree,6.915807372342768e-4
+mitre_impact_Not.available,1.8055555555555551,29,Decision Tree,6.915807372342768e-4
+incident_month,1.6283463829125921,30,Decision Tree,6.237044263204387e-4
+mitre_impact_Data.Exfiltration,1.5267857142857144,31,Decision Tree,5.848037113206331e-4
+source_disclosure_Incident.disclosed.by.IT.security.company,1.3026771063300735,32,Decision Tree,4.989635410563508e-4
+attribution_available,1.2723214285714288,33,Decision Tree,4.8733642610052763e-4
+initiator_country_Not.attributed,1.2723214285714288,34,Decision Tree,4.8733642610052763e-4
+state_affiliated_initiator,1.2723214285714288,35,Decision Tree,4.8733642610052763e-4
+inclusion_criterion_subcode_Not.available,1.2110389610389607,36,Decision Tree,4.6386344353555785e-4
+target_corporate,1.2110389610389607,37,Decision Tree,4.6386344353555785e-4
+number_attributions,1.2037037037037024,38,Decision Tree,4.6105382482285076e-4
+mitre_data_encryption,0.5187048082517772,39,Decision Tree,0.00019867915589412647
+mitre_impact_Data.Encrypted.for.Impact,0.5187048082517772,40,Decision Tree,0.00019867915589412647
+is_hijacking,0.31782911875963277,1,Gradient Boosting,0.31782911875963277
+incident_type_Hijacking.without.Misuse,0.14523789907323245,2,Gradient Boosting,0.14523789907323245
+incident_type_Data.theft.Hijacking.with.Misuse,0.10283788475566108,3,Gradient Boosting,0.10283788475566108
+incident_type_Hijacking.with.Misuse,0.09162609706850908,4,Gradient Boosting,0.09162609706850908
+is_disruption,0.0666445068495363,5,Gradient Boosting,0.0666445068495363
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse.Ransomware,0.06307681481316049,6,Gradient Boosting,0.06307681481316049
+is_data_theft,0.04257651281520346,7,Gradient Boosting,0.04257651281520346
+has_disruption,0.02063382727991024,8,Gradient Boosting,0.02063382727991024
+data_exfiltration,0.018944504360349283,9,Gradient Boosting,0.018944504360349283
+incident_type_Data.theft...Doxing.Disruption.Hijacking.with.Misuse.Ransomware,0.01532814947414874,10,Gradient Boosting,0.01532814947414874
+incident_type_other,0.01480683572417927,11,Gradient Boosting,0.01480683572417927
+incident_type_Disruption.Hijacking.with.Misuse,0.008122913498797782,12,Gradient Boosting,0.008122913498797782
+incident_type_Disruption.Hijacking.with.Misuse.Ransomware,0.006875643694602713,13,Gradient Boosting,0.006875643694602713
+is_ransomware,0.005435179285299087,14,Gradient Boosting,0.005435179285299087
+incident_month,0.00525989313730757,15,Gradient Boosting,0.00525989313730757
+incident_day_of_week,0.00524148013029799,16,Gradient Boosting,0.00524148013029799
+incident_year,0.004538696602311207,17,Gradient Boosting,0.004538696602311207
+il_breach_indicator_subcode_other,0.0035756507832300096,18,Gradient Boosting,0.0035756507832300096
+incident_type_Data.theft...Doxing.Disruption,0.003463999883966185,19,Gradient Boosting,0.003463999883966185
+il_breach_indicator_other,0.003455509351057896,20,Gradient Boosting,0.003455509351057896
+state_responsibility_actor_Not.available,0.003175903938037287,21,Gradient Boosting,0.003175903938037287
+incident_type_Disruption,0.003142810299505259,22,Gradient Boosting,0.003142810299505259
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse,0.002761982543248744,23,Gradient Boosting,0.002761982543248744
+attributing_actor_other,0.002693256004799048,24,Gradient Boosting,0.002693256004799048
+cyber_conflict_issue_Unknown,0.0021410889608102796,25,Gradient Boosting,0.0021410889608102796
+zero_days_Not.available,0.001968069201910966,26,Gradient Boosting,0.001968069201910966
+il_breach_indicator_subcode_Not.available,0.0018554949967709124,27,Gradient Boosting,0.0018554949967709124
+end_date_missing,0.0017192643128466686,28,Gradient Boosting,0.0017192643128466686
+incident_type_Data.theft.Hijacking.with.Misuse.Ransomware,0.0017044844395606065,29,Gradient Boosting,0.0017044844395606065
+source_disclosure_Incident.disclosed.by.IT.security.company,0.001559708409952973,30,Gradient Boosting,0.001559708409952973
+receiver_regions_other,0.0013587479240591191,31,Gradient Boosting,0.0013587479240591191
+target_government,0.0013450586888167518,32,Gradient Boosting,0.0013450586888167518
+target_critical_infrastructure,0.001336137739443115,33,Gradient Boosting,0.001336137739443115
+initiator_country_Not.attributed,0.0013090301836527053,34,Gradient Boosting,0.0013090301836527053
+source_disclosure_Incident.disclosed.by.attacker,0.0012900893057872652,35,Gradient Boosting,0.0012900893057872652
+attributing_actor_Not.available,0.0012739766479588108,36,Gradient Boosting,0.0012739766479588108
+initiator_attributed,0.0011920771697539532,37,Gradient Boosting,0.0011920771697539532
+offline_conflict_intensity_Not.available,0.0010998059910083935,38,Gradient Boosting,0.0010998059910083935
+offline_conflict_issue_Not.available,0.0010804300154623409,39,Gradient Boosting,0.0010804300154623409
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals,0.0010387473682754533,40,Gradient Boosting,0.0010387473682754533
+inclusion_criterion_subcode_Not.available,9.771776419486011e-4,41,Gradient Boosting,9.771776419486011e-4
+target_corporate,9.623987049055921e-4,42,Gradient Boosting,9.623987049055921e-4
+initiator_subcategory_Not.available,9.05431294088082e-4,43,Gradient Boosting,9.05431294088082e-4
+il_breach_indicator_Not.available,8.94319280631502e-4,44,Gradient Boosting,8.94319280631502e-4
+initiator_country_Ukraine,8.687321835591011e-4,45,Gradient Boosting,8.687321835591011e-4
+offline_conflict_issue_Unknown,8.614968972458182e-4,46,Gradient Boosting,8.614968972458182e-4
+receiver_category_other,8.574750524293121e-4,47,Gradient Boosting,8.574750524293121e-4
+cyber_conflict_issue_Not.available,8.424906525926804e-4,48,Gradient Boosting,8.424906525926804e-4
+source_disclosure_Incident.disclosed.by.victim,8.372255621148469e-4,49,Gradient Boosting,8.372255621148469e-4
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse,7.593343106457251e-4,50,Gradient Boosting,7.593343106457251e-4
+il_breach_indicator_Sovereignty,7.311553523507089e-4,51,Gradient Boosting,7.311553523507089e-4
+receiver_category_Critical.infrastructure,6.868851847044514e-4,52,Gradient Boosting,6.868851847044514e-4
+source_disclosure_Incident.disclosed.by.authorities.of.victim.state,5.734933414836462e-4,53,Gradient Boosting,5.734933414836462e-4
+state_affiliated_initiator,5.140394393434812e-4,54,Gradient Boosting,5.140394393434812e-4
+mitre_impact_Not.available,5.023878945493812e-4,55,Gradient Boosting,5.023878945493812e-4
+exploit_public_facing,4.6117745431320517e-4,56,Gradient Boosting,4.6117745431320517e-4
+mitre_initial_access_Not.available,4.2543735456597323e-4,57,Gradient Boosting,4.2543735456597323e-4
+initiator_country_other,4.2189558965312406e-4,58,Gradient Boosting,4.2189558965312406e-4
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated..Not.available,4.0513679644861925e-4,59,Gradient Boosting,4.0513679644861925e-4
+mitre_data_encryption,3.464029077726837e-4,60,Gradient Boosting,3.464029077726837e-4
+number_attributions,3.458409917148974e-4,61,Gradient Boosting,3.458409917148974e-4
+initiator_subcategory_Hacktivist.s.,3.2021310423493917e-4,62,Gradient Boosting,3.2021310423493917e-4
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source.,3.149841229493982e-4,63,Gradient Boosting,3.149841229493982e-4
+state_responsibility_actor_None.Negligent,2.9832229473562843e-4,64,Gradient Boosting,2.9832229473562843e-4
+is_doxing,2.866671113605726e-4,65,Gradient Boosting,2.866671113605726e-4
+il_breach_indicator_Human.rights.Sovereignty,2.777251390747466e-4,66,Gradient Boosting,2.777251390747466e-4
+offline_conflict_intensity_subcode_Not.available,2.738570934579405e-4,67,Gradient Boosting,2.738570934579405e-4
+receiver_regions_X..EUROPE....NATO....EU....WESTEU..,2.7045465853397295e-4,68,Gradient Boosting,2.7045465853397295e-4
+cyber_conflict_issue_System...ideology.Territory.Resources.International.power,2.617146806868233e-4,69,Gradient Boosting,2.617146806868233e-4
+zero_days_No,2.326162253225433e-4,70,Gradient Boosting,2.326162253225433e-4
+incident_period_X2020.2024,2.2537583222897157e-4,71,Gradient Boosting,2.2537583222897157e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,2.198827240112396e-4,72,Gradient Boosting,2.198827240112396e-4
+initiator_category_State.affiliated.actor,2.1976371475225753e-4,73,Gradient Boosting,2.1976371475225753e-4
+state_responsibility_actor_Direct..official.members.of.state.entities...agencies...units.responsible.,1.9727049668312e-4,74,Gradient Boosting,1.9727049668312e-4
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available,1.927663377465805e-4,75,Gradient Boosting,1.927663377465805e-4
+inclusion_criterion_Attack.on.critical.infrastructure.target.s.,1.6002599265841253e-4,76,Gradient Boosting,1.6002599265841253e-4
+cyber_conflict_issue_other,1.4245944512083995e-4,77,Gradient Boosting,1.4245944512083995e-4
+receiver_regions_X..NATO....NORTHAM..,1.2739229416527728e-4,78,Gradient Boosting,1.2739229416527728e-4
+inclusion_criterion_subcode_Not.available.Not.available,1.2276562569743272e-4,79,Gradient Boosting,1.2276562569743272e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized,1.136053917498852e-4,80,Gradient Boosting,1.136053917498852e-4
+il_breach_indicator_subcode_Not.available.Not.available,1.0257354410471497e-4,81,Gradient Boosting,1.0257354410471497e-4
+initiator_subcategory_Criminal.s.,9.084714242288048e-5,82,Gradient Boosting,9.084714242288048e-5
+initiator_country_Unknown,8.32563922841149e-5,83,Gradient Boosting,8.32563922841149e-5
+initiator_category_Non.state.group,7.467755463333059e-5,84,Gradient Boosting,7.467755463333059e-5
+user_interaction_Not.available,6.807533353029624e-5,85,Gradient Boosting,6.807533353029624e-5
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity,6.303907468546962e-5,86,Gradient Boosting,6.303907468546962e-5
+initiator_category_State,5.24769976312482e-5,87,Gradient Boosting,5.24769976312482e-5
+attribution_available,5.102860835006628e-5,88,Gradient Boosting,5.102860835006628e-5
+cyber_conflict_issue_System...ideology.International.power,4.83612093356779e-5,89,Gradient Boosting,4.83612093356779e-5
+state_responsibility_actor_Indirect..knowingly.sanctioning...ordering...ideological...material.support.by.official.members.of.state.entities.agencies.units.for.officially.non.state.actors.,4.5932802319246224e-5,90,Gradient Boosting,4.5932802319246224e-5
+offline_conflict_intensity_subcode_other,4.187806664594203e-5,91,Gradient Boosting,4.187806664594203e-5
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized,4.1293295086581654e-5,92,Gradient Boosting,4.1293295086581654e-5
+source_disclosure_other,3.941702411172674e-5,93,Gradient Boosting,3.941702411172674e-5
+user_interaction_None,3.7897884645292655e-5,94,Gradient Boosting,3.7897884645292655e-5
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5,3.559868980929521e-5,95,Gradient Boosting,3.559868980929521e-5
+offline_conflict_intensity_Yes...HIIK.intensity,3.266637124785846e-5,96,Gradient Boosting,3.266637124785846e-5
+cyber_conflict_issue_System...ideology,2.6049579862312407e-5,97,Gradient Boosting,2.6049579862312407e-5
+initiator_country_Russia,2.2920613022814237e-5,98,Gradient Boosting,2.2920613022814237e-5
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty,1.4903917511235204e-5,99,Gradient Boosting,1.4903917511235204e-5
+incident_type_Data.theft,1.2937985305370873e-5,100,Gradient Boosting,1.2937985305370873e-5
+receiver_regions_X..Not.available..,1.0346089505597279e-5,101,Gradient Boosting,1.0346089505597279e-5
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...politicized,7.853206728237114e-6,102,Gradient Boosting,7.853206728237114e-6
+incident_period_unknown,8.909629343996414e-7,103,Gradient Boosting,8.909629343996414e-7
+is_hijacking,0.29977028679500667,1,XGBoost,0.29977028679500667
+incident_type_Hijacking.without.Misuse,0.14371030012722974,2,XGBoost,0.14371030012722974
+incident_type_Hijacking.with.Misuse,0.09155716785703755,3,XGBoost,0.09155716785703755
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse.Ransomware,0.07530026082754447,4,XGBoost,0.07530026082754447
+incident_type_Data.theft.Hijacking.with.Misuse,0.06846175010807776,5,XGBoost,0.06846175010807776
+incident_type_Data.theft...Doxing.Disruption.Hijacking.with.Misuse.Ransomware,0.03231674871507248,6,XGBoost,0.03231674871507248
+is_data_theft,0.02840921642345331,7,XGBoost,0.02840921642345331
+is_disruption,0.024772831369143263,8,XGBoost,0.024772831369143263
+incident_type_other,0.018977875761671505,9,XGBoost,0.018977875761671505
+has_disruption,0.017898163648421443,10,XGBoost,0.017898163648421443
+incident_month,0.015769206781192258,11,XGBoost,0.015769206781192258
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse,0.01549502022462157,12,XGBoost,0.01549502022462157
+incident_day_of_week,0.012976254012439388,13,XGBoost,0.012976254012439388
+data_exfiltration,0.01207723306194186,14,XGBoost,0.01207723306194186
+incident_year,0.009801187067620868,15,XGBoost,0.009801187067620868
+incident_type_Disruption.Hijacking.with.Misuse,0.0058127964720813535,16,XGBoost,0.0058127964720813535
+end_date_missing,0.005618588058001428,17,XGBoost,0.005618588058001428
+state_responsibility_actor_Not.available,0.004083199798679903,18,XGBoost,0.004083199798679903
+receiver_regions_other,0.0037939029212983562,19,XGBoost,0.0037939029212983562
+mitre_impact_Not.available,0.003776203578775892,20,XGBoost,0.003776203578775892
+il_breach_indicator_other,0.0036861505016064474,21,XGBoost,0.0036861505016064474
+incident_type_Disruption.Hijacking.with.Misuse.Ransomware,0.0036246080705727847,22,XGBoost,0.0036246080705727847
+il_breach_indicator_subcode_other,0.0036096733279662807,23,XGBoost,0.0036096733279662807
+incident_type_Data.theft...Doxing.Disruption,0.003532723909500612,24,XGBoost,0.003532723909500612
+il_breach_indicator_subcode_Not.available,0.0034353234142408037,25,XGBoost,0.0034353234142408037
+inclusion_criterion_subcode_Not.available,0.003015050304829245,26,XGBoost,0.003015050304829245
+target_critical_infrastructure,0.002942447582125229,27,XGBoost,0.002942447582125229
+attributing_actor_Not.available,0.00287048379002046,28,XGBoost,0.00287048379002046
+incident_type_Disruption,0.002846597018600402,29,XGBoost,0.002846597018600402
+target_government,0.002826523775506794,30,XGBoost,0.002826523775506794
+cyber_conflict_issue_Unknown,0.0025881576322326536,31,XGBoost,0.0025881576322326536
+cyber_conflict_issue_Not.available,0.0025039009062146843,32,XGBoost,0.0025039009062146843
+receiver_category_Critical.infrastructure,0.002301970078353632,33,XGBoost,0.002301970078353632
+receiver_category_other,0.0022239915975458538,34,XGBoost,0.0022239915975458538
+source_disclosure_Incident.disclosed.by.IT.security.company,0.0021030431892323626,35,XGBoost,0.0021030431892323626
+attributing_actor_other,0.002076476958189403,36,XGBoost,0.002076476958189403
+il_breach_indicator_Sovereignty,0.0020284303988095426,37,XGBoost,0.0020284303988095426
+offline_conflict_issue_Not.available,0.0019550012476608983,38,XGBoost,0.0019550012476608983
+initiator_subcategory_Not.available,0.0019475630132579375,39,XGBoost,0.0019475630132579375
+is_ransomware,0.0019239986397475968,40,XGBoost,0.0019239986397475968
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse,0.0018825563183000188,41,XGBoost,0.0018825563183000188
+is_doxing,0.001845635703216493,42,XGBoost,0.001845635703216493
+initiator_attributed,0.0017597980165567385,43,XGBoost,0.0017597980165567385
+offline_conflict_issue_Unknown,0.0017290718307949031,44,XGBoost,0.0017290718307949031
+source_disclosure_Incident.disclosed.by.attacker,0.0016784899826883888,45,XGBoost,0.0016784899826883888
+source_disclosure_Incident.disclosed.by.victim,0.0016783601910416361,46,XGBoost,0.0016783601910416361
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals,0.0016384095275284566,47,XGBoost,0.0016384095275284566
+incident_type_Data.theft.Hijacking.with.Misuse.Ransomware,0.0016239615981976003,48,XGBoost,0.0016239615981976003
+zero_days_Not.available,0.001579030038339802,49,XGBoost,0.001579030038339802
+offline_conflict_intensity_subcode_Not.available,0.0014352786945368969,50,XGBoost,0.0014352786945368969
+zero_days_No,0.0014045638608141358,51,XGBoost,0.0014045638608141358
+source_disclosure_Incident.disclosed.by.authorities.of.victim.state,0.0014041029680277083,52,XGBoost,0.0014041029680277083
+target_corporate,0.0013368903826769492,53,XGBoost,0.0013368903826769492
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated..Not.available,0.0013156552583840592,54,XGBoost,0.0013156552583840592
+state_responsibility_actor_None.Negligent,0.0012704803864887625,55,XGBoost,0.0012704803864887625
+inclusion_criterion_subcode_Not.available.Not.available,0.0011806030767243223,56,XGBoost,0.0011806030767243223
+offline_conflict_intensity_Not.available,0.0011759896080444172,57,XGBoost,0.0011759896080444172
+initiator_country_Not.attributed,0.0011635225149317478,58,XGBoost,0.0011635225149317478
+mitre_initial_access_Not.available,0.001121002128173388,59,XGBoost,0.001121002128173388
+exploit_public_facing,0.001079995062823994,60,XGBoost,0.001079995062823994
+state_affiliated_initiator,0.0010155046018429912,61,XGBoost,0.0010155046018429912
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available,9.790437443419856e-4,62,XGBoost,9.790437443419856e-4
+initiator_subcategory_Hacktivist.s.,9.680766339923694e-4,63,XGBoost,9.680766339923694e-4
+mitre_data_encryption,8.641719879447859e-4,64,XGBoost,8.641719879447859e-4
+receiver_regions_X..NATO....NORTHAM..,8.614194968705052e-4,65,XGBoost,8.614194968705052e-4
+initiator_country_Ukraine,8.156800502319e-4,66,XGBoost,8.156800502319e-4
+receiver_category_State.institutions...political.system,8.033320589291879e-4,67,XGBoost,8.033320589291879e-4
+initiator_country_other,7.779407639304465e-4,68,XGBoost,7.779407639304465e-4
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized,7.508664818387373e-4,69,XGBoost,7.508664818387373e-4
+number_attributions,7.368185699847713e-4,70,XGBoost,7.368185699847713e-4
+il_breach_indicator_Not.available,7.300260774045025e-4,71,XGBoost,7.300260774045025e-4
+offline_conflict_intensity_Unknown,7.10960422379088e-4,72,XGBoost,7.10960422379088e-4
+inclusion_criterion_Attack.on.critical.infrastructure.target.s.,7.005070390977589e-4,73,XGBoost,7.005070390977589e-4
+initiator_category_Non.state.group,6.963203597868948e-4,74,XGBoost,6.963203597868948e-4
+state_responsibility_actor_Direct..official.members.of.state.entities...agencies...units.responsible.,6.828748155063232e-4,75,XGBoost,6.828748155063232e-4
+state_responsibility_actor_Indirect..knowingly.sanctioning...ordering...ideological...material.support.by.official.members.of.state.entities.agencies.units.for.officially.non.state.actors.,6.618144180148556e-4,76,XGBoost,6.618144180148556e-4
+cyber_conflict_issue_System...ideology.International.power,6.383361308008304e-4,77,XGBoost,6.383361308008304e-4
+incident_period_X2020.2024,6.341731961716973e-4,78,XGBoost,6.341731961716973e-4
+initiator_country_Unknown,6.236332062922618e-4,79,XGBoost,6.236332062922618e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,6.073874923732961e-4,80,XGBoost,6.073874923732961e-4
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source.,6.062239083681528e-4,81,XGBoost,6.062239083681528e-4
+attribution_available,5.316651347312628e-4,82,XGBoost,5.316651347312628e-4
+il_breach_indicator_Human.rights.Sovereignty,5.26334169881682e-4,83,XGBoost,5.26334169881682e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized,4.862829935225296e-4,84,XGBoost,4.862829935225296e-4
+cyber_conflict_issue_System...ideology.Territory.Resources.International.power,4.543799324098009e-4,85,XGBoost,4.543799324098009e-4
+initiator_category_State,4.502885156268375e-4,86,XGBoost,4.502885156268375e-4
+initiator_country_Russia,4.2295956945855544e-4,87,XGBoost,4.2295956945855544e-4
+initiator_category_State.affiliated.actor,3.9791427515077426e-4,88,XGBoost,3.9791427515077426e-4
+initiator_subcategory_Criminal.s.,3.9041663174332344e-4,89,XGBoost,3.9041663174332344e-4
+receiver_regions_X..EUROPE....NATO....EU....WESTEU..,3.860748078984402e-4,90,XGBoost,3.860748078984402e-4
+offline_conflict_intensity_subcode_other,3.7763936781302286e-4,91,XGBoost,3.7763936781302286e-4
+offline_conflict_intensity_Yes...HIIK.intensity,3.75701527442831e-4,92,XGBoost,3.75701527442831e-4
+source_disclosure_other,3.6286286790120206e-4,93,XGBoost,3.6286286790120206e-4
+user_interaction_None,3.5942816657870256e-4,94,XGBoost,3.5942816657870256e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on.critical.infrastructure.target.s.,3.000092290542638e-4,95,XGBoost,3.000092290542638e-4
+mitre_impact_other,2.966217805944122e-4,96,XGBoost,2.966217805944122e-4
+receiver_regions_X..EUROPE....EASTEU....CSTO....SCO..,2.931535198063985e-4,97,XGBoost,2.931535198063985e-4
+offline_conflict_issue_System.ideology.Territory.Resources.International.power,2.6607670715597887e-4,98,XGBoost,2.6607670715597887e-4
+mitre_impact_Data.Destruction,2.5602152029527165e-4,99,XGBoost,2.5602152029527165e-4
+incident_period_X2015.2019,2.4253193956312323e-4,100,XGBoost,2.4253193956312323e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity,2.4087603181336458e-4,101,XGBoost,2.4087603181336458e-4
+cyber_conflict_issue_International.power,2.3366448344067428e-4,102,XGBoost,2.3366448344067428e-4
+initiator_subcategory_Non.state.group..state.affiliation.suggested..widely.held.view.for.the.attributed.initiator..group...but.not.invoked.in.this.case.,2.3280108991880903e-4,103,XGBoost,2.3280108991880903e-4
+attributing_company_Not.available,2.1732128388615585e-4,104,XGBoost,2.1732128388615585e-4
+cyber_conflict_issue_other,2.1694922080548682e-4,105,XGBoost,2.1694922080548682e-4
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse.Ransomware,1.949546687485893e-4,106,XGBoost,1.949546687485893e-4
+initiator_category_Unknown,1.863974662190565e-4,107,XGBoost,1.863974662190565e-4
+il_breach_indicator_subcode_Not.available.Not.available,1.609715829762597e-4,108,XGBoost,1.609715829762597e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...politicized,1.54297009701878e-4,109,XGBoost,1.54297009701878e-4
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,1.5319592103684823e-4,110,XGBoost,1.5319592103684823e-4
+attribution_legal_reference_Not.available,1.1302584389343038e-4,111,XGBoost,1.1302584389343038e-4
+receiver_regions_X..EUROPE....EASTEU..,1.1110524443258302e-4,112,XGBoost,1.1110524443258302e-4
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies.,1.0303087013998121e-4,113,XGBoost,1.0303087013998121e-4
+incident_type_Data.theft,9.175619048168835e-5,114,XGBoost,9.175619048168835e-5
+offline_conflict_issue_other,7.919133975752993e-5,115,XGBoost,7.919133975752993e-5
+attributing_actor_Microsoft,7.253498887087102e-5,116,XGBoost,7.253498887087102e-5
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5,6.88676949102702e-5,117,XGBoost,6.88676949102702e-5
+user_interaction_Not.available,6.777561692625588e-5,118,XGBoost,6.777561692625588e-5
+cyber_conflict_issue_System...ideology,6.362995868158934e-5,119,XGBoost,6.362995868158934e-5
+receiver_regions_X..Not.available..,6.233825627295278e-5,120,XGBoost,6.233825627295278e-5
+mitre_impact_Defacement,5.50538419994526e-5,121,XGBoost,5.50538419994526e-5
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized.Attack.on.critical.infrastructure.target.s.,3.9933292528387444e-5,122,XGBoost,3.9933292528387444e-5
+target_education,3.92542425222964e-5,123,XGBoost,3.92542425222964e-5
+source_disclosure_Incident.disclosed.by.third.party.actor..e.g...Citizen.Lab..Amnesty.International..whistleblowers..or.authorities.of.another.state,3.6833562090132825e-5,124,XGBoost,3.6833562090132825e-5
+incident_period_unknown,3.602588520379842e-5,125,XGBoost,3.602588520379842e-5
+attributing_company_other,3.314063439754878e-5,126,XGBoost,3.314063439754878e-5
+source_disclosure_Not.available,2.5060193859066502e-5,127,XGBoost,2.5060193859066502e-5
+inclusion_criterion_other,2.348730232943091e-5,128,XGBoost,2.348730232943091e-5
+il_breach_indicator_subcode_Civic...political.rights.Not.available,2.0904484329802672e-5,129,XGBoost,2.0904484329802672e-5
+target_social_groups,1.9495394742110644e-5,130,XGBoost,1.9495394742110644e-5
+physical_effects_spatial_none,1.562116256921298e-5,131,XGBoost,1.562116256921298e-5
+initiator_country_Korea..Democratic.People.s.Republic.of,1.549099252115791e-5,132,XGBoost,1.549099252115791e-5
+cyber_conflict_issue_System...ideology.National.power,1.1344045347054764e-5,133,XGBoost,1.1344045347054764e-5
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source..Incident.disclosed.by.victim,1.022677115756322e-5,134,XGBoost,1.022677115756322e-5
+initiator_country_China,1.000207838571635e-5,135,XGBoost,1.000207838571635e-5
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated,7.428727070235649e-6,136,XGBoost,7.428727070235649e-6
+offline_conflict_intensity_subcode_HIIK.3.HIIK.3,4.722495555183837e-6,137,XGBoost,4.722495555183837e-6
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty,4.265481382106782e-6,138,XGBoost,4.265481382106782e-6
+initiator_country_Iran..Islamic.Republic.of,1.238223662058698e-6,139,XGBoost,1.238223662058698e-6
+receiver_regions_X..NATO....NORTHAM.....NATO....NORTHAM..,6.061988865820259e-7,140,XGBoost,6.061988865820259e-7
+is_hijacking,100,1,AdaBoost,0.008761738539207904
+incident_type_Data.theft,100,2,AdaBoost,0.008761738539207904
+incident_type_Data.theft...Doxing,100,3,AdaBoost,0.008761738539207904
+incident_type_Data.theft...Doxing.Disruption.Hijacking.with.Misuse.Ransomware,100,4,AdaBoost,0.008761738539207904
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse,100,5,AdaBoost,0.008761738539207904
+incident_type_Data.theft.Disruption.Hijacking.with.Misuse.Ransomware,100,6,AdaBoost,0.008761738539207904
+incident_type_Data.theft.Hijacking.with.Misuse,100,7,AdaBoost,0.008761738539207904
+incident_type_Disruption,100,8,AdaBoost,0.008761738539207904
+incident_type_Hijacking.with.Misuse,100,9,AdaBoost,0.008761738539207904
+incident_type_Hijacking.without.Misuse,100,10,AdaBoost,0.008761738539207904
+receiver_regions_X..EUROPE....EASTEU....CSTO....SCO..,100,11,AdaBoost,0.008761738539207904
+receiver_regions_X..EUROPE....NATO....EU....NORTHEU..,100,12,AdaBoost,0.008761738539207904
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse,99.96,13,AdaBoost,0.008758233843792219
+incident_type_Data.theft.Hijacking.with.Misuse.Ransomware,99.96,14,AdaBoost,0.008758233843792219
+mitre_impact_Data.Destruction,99.89,15,AdaBoost,0.008752100626814774
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...not.politicized,99.78,16,AdaBoost,0.008742462714421646
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source..Incident.disclosed.by.authorities.of.victim.state,99.45,17,AdaBoost,0.00871354897724226
+incident_type_other,99.38,18,AdaBoost,0.008707415760264814
+incident_year,99.08,19,AdaBoost,0.00868113054464719
+incident_type_Data.theft...Doxing.Disruption,98.61,20,AdaBoost,0.008639950373512914
+physical_effects_spatial_none,98.42,21,AdaBoost,0.00862330307028842
+incident_type_Data.theft...Doxing.Hijacking.with.Misuse.Ransomware,97.73,22,AdaBoost,0.008562847074367885
+il_breach_indicator_subcode_other,95.46,23,AdaBoost,0.008363955609527865
+is_data_theft,94.1,24,AdaBoost,0.008244795965394637
+is_disruption,93.4,25,AdaBoost,0.008183463795620183
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source..Incident.disclosed.by.victim,93.33,26,AdaBoost,0.008177330578642736
+source_disclosure_Incident.disclosed.by.victim,92.19,27,AdaBoost,0.008077446759295765
+cyber_conflict_issue_System...ideology.International.power,91.43,28,AdaBoost,0.008010857546397786
+initiator_country_China,90.36,29,AdaBoost,0.007917106944028262
+initiator_country_Ukraine,87.94,30,AdaBoost,0.00770507287137943
+offline_conflict_issue_System.ideology,86.08,31,AdaBoost,0.007542104534550164
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies..Attack.on..inter.alia..political.target.s...politicized,86.04,32,AdaBoost,0.007538599839134481
+user_interaction_None,85.86,33,AdaBoost,0.007522828709763906
+cyber_conflict_issue_International.power,85.82,34,AdaBoost,0.007519324014348222
+cyber_conflict_issue_Not.available,84.94,35,AdaBoost,0.007442220715203193
+physical_effects_temporal_none,84.54,36,AdaBoost,0.007407173761046363
+number_attributions,84.35,37,AdaBoost,0.007390526457821866
+exploit_public_facing,84.35,38,AdaBoost,0.007390526457821866
+offline_conflict_issue_System.ideology.Territory.Resources.International.power.Third.party.intervention...third.party.affection,83.84,39,AdaBoost,0.007345841591271907
+receiver_regions_X..EUROPE....NATO....EU....WESTEU..,83.14,40,AdaBoost,0.007284509421497451
+attribution_legal_reference_Not.available,83,41,AdaBoost,0.00727224298754256
+receiver_regions_X..EUROPE....NATO....EU..,82.74,42,AdaBoost,0.007249462467340619
+offline_conflict_issue_other,82.3,43,AdaBoost,0.007210910817768104
+attribution_legal_reference_subcode_Not.available,81.24,44,AdaBoost,0.0071180363892525
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on.critical.infrastructure.target.s.,78.01,45,AdaBoost,0.006835032234436086
+cyber_conflict_issue_Cyber.specific,78.01,46,AdaBoost,0.006835032234436086
+attributing_actor_Microsoft,77.9,47,AdaBoost,0.006825394322042958
+initiator_country_Iran..Islamic.Republic.of,77.87,48,AdaBoost,0.006822765800481195
+source_disclosure_Incident.disclosed.by.third.party.actor..e.g...Citizen.Lab..Amnesty.International..whistleblowers..or.authorities.of.another.state,77.83,49,AdaBoost,0.006819261105065511
+target_media,77.68,50,AdaBoost,0.0068061184972567
+incident_month,76.91,51,AdaBoost,0.006738653110504799
+state_responsibility_actor_Direct..official.members.of.state.entities...agencies...units.responsible.,76.51,52,AdaBoost,0.0067036061563479675
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Not.available,76.44,53,AdaBoost,0.006697472939370521
+incident_type_Disruption.Hijacking.with.Misuse.Ransomware,75.12,54,AdaBoost,0.006581817990652977
+incident_type_Disruption.Hijacking.with.Misuse,73.84,55,AdaBoost,0.006469667737351116
+receiver_regions_X..EUROPE....NATO....EU....WESTEU.....EUROPE....NATO....EU....WESTEU..,73.4,56,AdaBoost,0.006431116087778602
+is_ransomware,72.88,57,AdaBoost,0.00638555504737472
+receiver_regions_X..Not.available..,72.41,58,AdaBoost,0.006344374876240443
+initiator_subcategory_Non.state.group..state.affiliation.suggested..widely.held.view.for.the.attributed.initiator..group...but.not.invoked.in.this.case.,72.11,59,AdaBoost,0.006318089660622819
+attributing_company_Not.available,72.11,60,AdaBoost,0.006318089660622819
+offline_conflict_issue_System.ideology.Territory.International.power,71.12,61,AdaBoost,0.006231348449084661
+il_breach_indicator_subcode_Civic...political.rights.Not.available,70.98,62,AdaBoost,0.006219082015129771
+initiator_category_Unknown,70.87,63,AdaBoost,0.006209444102736642
+phishing_used,69.33,64,AdaBoost,0.006074513329232839
+zero_days_Yes,69.33,65,AdaBoost,0.006074513329232839
+receiver_category_Unknown,69.29,66,AdaBoost,0.006071008633817157
+initiator_subcategory_Criminal.s.,69.29,67,AdaBoost,0.006071008633817157
+il_breach_indicator_Cyber.espionage.Sovereignty,69.15,68,AdaBoost,0.006058742199862266
+receiver_category_Corporate.Targets..corporate.targets.only.coded.if.the.respective.company.is.not.part.of.the.critical.infrastructure.definition.,68.56,69,AdaBoost,0.0060070479424809385
+settled_initiator_other,67.86,70,AdaBoost,0.005945715772706484
+inclusion_criterion_Attack.on..inter.alia..political.target.s...politicized,67.72,71,AdaBoost,0.005933449338751592
+mitre_initial_access_Valid.Accounts,67.39,72,AdaBoost,0.005904535601572206
+initiator_country_United.States,66.47,73,AdaBoost,0.005823927607011494
+inclusion_criterion_other,66.32,74,AdaBoost,0.005810784999202681
+receiver_category_Critical.infrastructure.Critical.infrastructure,66.07,75,AdaBoost,0.0057888806528546615
+initiator_category_other,65.99,76,AdaBoost,0.0057818712620232955
+target_social_groups,65.96,77,AdaBoost,0.005779242740461533
+mitre_impact_Defacement,65.81,78,AdaBoost,0.005766100132652722
+il_breach_indicator_subcode_Not.available.Not.available,65.15,79,AdaBoost,0.00570827265829395
+il_breach_indicator_Human.rights,64.68,80,AdaBoost,0.005667092487159672
+source_disclosure_other,64.24,81,AdaBoost,0.005628540837587157
+initiator_category_Individual.hacker.s.,64.24,82,AdaBoost,0.005628540837587157
+receiver_category_State.institutions...political.system.Critical.infrastructure,63.76,83,AdaBoost,0.005586484492598959
+receiver_regions_X..ASIA....MENA....MEA..,63.5,84,AdaBoost,0.0055637039723970185
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5,63.43,85,AdaBoost,0.005557570755419574
+cyber_conflict_issue_System...ideology,63.17,86,AdaBoost,0.005534790235217633
+receiver_regions_X..EUROPE....EASTEU..,63.14,87,AdaBoost,0.00553216171365587
+is_doxing,62.92,88,AdaBoost,0.005512885888869613
+zero_days_Not.available,62.51,89,AdaBoost,0.0054769627608588604
+incident_period_X2015.2019,62.04,90,AdaBoost,0.0054357825897245835
+receiver_category_State.institutions...political.system.State.institutions...political.system,61.78,91,AdaBoost,0.005413002069522643
+incident_day_of_week,60.86,92,AdaBoost,0.00533239407496193
+offline_conflict_intensity_subcode_HIIK.2.HIIK.2,60.46,93,AdaBoost,0.0052973471208050986
+incident_period_X2010.2014,60.46,94,AdaBoost,0.0052973471208050986
+mitre_impact_other,60.1,95,AdaBoost,0.00526580486206395
+incident_period_unknown,59.8,96,AdaBoost,0.005239519646446326
+source_disclosure_Incident.disclosed.by.IT.security.company,59.58,97,AdaBoost,0.005220243821660069
+offline_conflict_intensity_Yes...HIIK.intensity,59.36,98,AdaBoost,0.005200967996873812
+source_disclosure_Incident.disclosed.by.authorities.of.victim.state,59.33,99,AdaBoost,0.005198339475312049
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty,59.11,100,AdaBoost,0.0051790636505257915
+offline_conflict_issue_System.ideology.International.power,59,101,AdaBoost,0.0051694257381326636
+initiator_subcategory_Hacktivist.s.,58.45,102,AdaBoost,0.00512123617616702
+receiver_regions_X..ASIA....SCS....NEA..,58.3,103,AdaBoost,0.005108093568358208
+offline_conflict_intensity_subcode_HIIK.2.HIIK.2.HIIK.2,57.86,104,AdaBoost,0.005069541918785693
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity,57.27,105,AdaBoost,0.005017847661404367
+receiver_regions_X..NATO....NORTHAM.....NATO....NORTHAM..,56.87,106,AdaBoost,0.004982800707247535
+inclusion_criterion_subcode_other,56.14,107,AdaBoost,0.004918840015911317
+initiator_category_State.State,54.42,108,AdaBoost,0.004768138113036942
+cyber_conflict_issue_System...ideology.Territory.International.power,53.94,109,AdaBoost,0.004726081768048743
+offline_conflict_intensity_subcode_Not.available.Not.available,53.94,110,AdaBoost,0.004726081768048743
+source_disclosure_Not.available,53.87,111,AdaBoost,0.004719948551071298
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals,53.57,112,AdaBoost,0.004693663335453674
+offline_conflict_intensity_subcode_HIIK.3,53.5,113,AdaBoost,0.0046875301184762285
+offline_conflict_intensity_subcode_HIIK.3.HIIK.3,53.46,114,AdaBoost,0.0046840254230605454
+receiver_regions_X..Not.available.....Not.available..,53.35,115,AdaBoost,0.004674387510667417
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized,53.02,116,AdaBoost,0.00464547377348803
+receiver_category_International...supranational.organization,52.47,117,AdaBoost,0.0045972842115223865
+receiver_category_State.institutions...political.system.Education,52.25,118,AdaBoost,0.00457800838673613
+data_exfiltration,51.96,119,AdaBoost,0.0045525993449724265
+initiator_country_Korea..Democratic.People.s.Republic.of,51.41,120,AdaBoost,0.004504409783006783
+initiator_category_State.affiliated.actor,50.93,121,AdaBoost,0.0044623534380185854
+attributing_actor_Not.available.Not.available,50.9,122,AdaBoost,0.004459724916456823
+offline_conflict_intensity_other,50.42,123,AdaBoost,0.0044176685714686255
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,50.05,124,AdaBoost,0.004385250138873555
+mitre_initial_access_Not.available,49.36,125,AdaBoost,0.004324794142953021
+inclusion_criterion_Attack.conducted.by.nation.state..generic..state.attribution..or.direct.attribution.towards.specific.state.entities..e.g...intelligence.agencies.,48.74,126,AdaBoost,0.004270471364009932
+attribution_legal_reference_subcode_other,48.63,127,AdaBoost,0.004260833451616804
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated..Not.available,47.75,128,AdaBoost,0.004183730152471774
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5,47.64,129,AdaBoost,0.004174092240078645
+incident_period_X2020.2024,47.27,130,AdaBoost,0.004141673807483576
+attributing_company_Not.available.Not.available,46.68,131,AdaBoost,0.004089979550102249
+has_disruption,46.39,132,AdaBoost,0.004064570508338547
+settled_initiator_True,45.62,133,AdaBoost,0.003997105121586645
+il_breach_indicator_Not.available,45.47,134,AdaBoost,0.003983962513777833
+offline_conflict_intensity_subcode_other,45.07,135,AdaBoost,0.003948915559621002
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...not.politicized.Attack.on.critical.infrastructure.target.s.,45.03,136,AdaBoost,0.003945410864205319
+inclusion_criterion_subcode_Not.available.Not.available,44.92,137,AdaBoost,0.00393577295181219
+il_breach_indicator_Human.rights.Sovereignty.Human.rights,44.92,138,AdaBoost,0.00393577295181219
+target_corporate,44.23,139,AdaBoost,0.0038753169558916555
+zero_days_subcode_Not.available,44.16,140,AdaBoost,0.0038691837389142098
+receiver_regions_X..EUROPE....NATO....NORTHEU..,43.79,141,AdaBoost,0.003836765306319141
+initiator_subcategory_other,43.5,142,AdaBoost,0.003811356264555438
+il_breach_indicator_Due.diligence.Sovereignty,43.31,143,AdaBoost,0.003794708961330943
+offline_conflict_issue_Unknown,43.2,144,AdaBoost,0.0037850710489378144
+end_date_missing,42.65,145,AdaBoost,0.003736881486972171
+settled_initiator_True.True,42.18,146,AdaBoost,0.0036957013158378936
+il_breach_indicator_Sovereignty,41.41,147,AdaBoost,0.0036282359290859927
+receiver_regions_X..NATO....NORTHAM..,41.19,148,AdaBoost,0.003608960104299735
+initiator_subcategory_Not.available.Not.available,40.64,149,AdaBoost,0.003560770542334092
+initiator_category_State,39.87,150,AdaBoost,0.003493305155582191
+receiver_category_other,39.65,151,AdaBoost,0.0034740293307959336
+initiator_country_Russia,38.92,152,AdaBoost,0.003410068639459716
+user_interaction_Not.available,38.92,153,AdaBoost,0.003410068639459716
+receiver_category_State.institutions...political.system,38.66,154,AdaBoost,0.003387288119257775
+mitre_initial_access_other,36.61,155,AdaBoost,0.0032076724792040137
+attributing_company_other,36.57,156,AdaBoost,0.00320416778378833
+attribution_legal_reference_other,36.35,157,AdaBoost,0.003184891959002073
+il_breach_indicator_other,35.25,158,AdaBoost,0.003088512835070786
+state_responsibility_actor_Indirect..knowingly.sanctioning...ordering...ideological...material.support.by.official.members.of.state.entities.agencies.units.for.officially.non.state.actors.,34.22,159,AdaBoost,0.0029982669281169447
+offline_conflict_issue_International.power,32.94,160,AdaBoost,0.0028861166748150834
+receiver_regions_X..SOUTHAM..,32.65,161,AdaBoost,0.0028607076330513805
+cyber_conflict_issue_System...ideology.Territory.Resources.International.power,32.61,162,AdaBoost,0.0028572029376356975
+mitre_impact_Not.available,32.25,163,AdaBoost,0.002825660678894549
+zero_days_No,31.95,164,AdaBoost,0.0027993754632769253
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available,31.33,165,AdaBoost,0.002745052684333836
+initiator_country_other,29.75,166,AdaBoost,0.002606617215414351
+offline_conflict_issue_System.ideology.Territory.Resources.International.power,28.36,167,AdaBoost,0.0024848290497193615
+il_breach_indicator_subcode_Not.available.Not.available.Not.available,28.11,168,AdaBoost,0.0024629247033713417
+il_breach_indicator_Human.rights.Due.diligence.Sovereignty.Human.rights,27.74,169,AdaBoost,0.0024305062707762723
+inclusion_criterion_subcode_Attack.conducted.by.a.state.affiliated.group..includes.state.sanctioned..state.supported..state.controlled.but.officially.non.state.actors....cyber.proxies.....a.group.that.is.generally.attributed.as.state.affiliated,26.71,170,AdaBoost,0.002340260363822431
+source_disclosure_Incident.disclosed.by.attacker,26.38,171,AdaBoost,0.002311346626643045
+source_disclosure_Incident.disclosed.by.media..without.further.information.on.source.,25.54,172,AdaBoost,0.0022377480229136986
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized.Attack.on.critical.infrastructure.target.s.,24.95,173,AdaBoost,0.0021860537655323717
+offline_conflict_issue_Not.available,23.96,174,AdaBoost,0.0020993125539942137
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Economic..social.and.cultural.rights,23.09,175,AdaBoost,0.002023085428703105
+initiator_attributed,21.99,176,AdaBoost,0.0019267063047718178
+initiator_country_Unknown,19.82,177,AdaBoost,0.0017365765784710064
+il_breach_indicator_subcode_Economic..social.and.cultural.rights.Not.available.Not.available,18.8,178,AdaBoost,0.0016472068453710859
+offline_conflict_intensity_subcode_Not.available,16.86,179,AdaBoost,0.0014772291177104525
+receiver_category_Social.groups,15.68,180,AdaBoost,0.0013738406029477992
+initiator_country_Turkey,14.58,181,AdaBoost,0.0012774614790165124
+cyber_conflict_issue_other,13.41,182,AdaBoost,0.00117494913810778
+cyber_conflict_issue_Other,12.09,183,AdaBoost,0.0010592941893902356
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,11.51,184,AdaBoost,0.0010084761058628297
+offline_conflict_issue_System.ideology.National.power,11.1,185,AdaBoost,9.725529778520773e-4
+mitre_impact_Network.Denial.of.Service,10.3,186,AdaBoost,9.024590695384142e-4
+target_education,10,187,AdaBoost,8.761738539207904e-4
+receiver_category_State.institutions...political.system.Critical.infrastructure.Education,9.31,188,AdaBoost,8.157178580002559e-4
+mitre_data_encryption,9.09,189,AdaBoost,7.964420332139985e-4
+cyber_conflict_issue_System...ideology.National.power,8.94,190,AdaBoost,7.832994254051866e-4
+il_breach_indicator_Human.rights.Sovereignty,8.54,191,AdaBoost,7.482524712483549e-4
+attribution_available,8.1,192,AdaBoost,7.097008216758402e-4
+initiator_category_Non.state.group,6.85,193,AdaBoost,6.001790899357414e-4
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5,6.71,194,AdaBoost,5.879126559808504e-4
+il_breach_indicator_subcode_Not.available,5.57,195,AdaBoost,4.880288366338803e-4
+target_government,4.65,196,AdaBoost,4.0742084207316757e-4
+inclusion_criterion_Attack.conducted.by.non.state.group...non.state.actor.with.political.goals..religious..ethnic..etc..groups....undefined.actor.with.political.goals.Attack.on..inter.alia..political.target.s...politicized,4.58,197,AdaBoost,4.01287625095722e-4
+inclusion_criterion_subcode_Not.available.Not.available.Not.available,1.47,198,AdaBoost,1.287975565263562e-4
+target_critical_infrastructure,0,199,AdaBoost,0
+state_affiliated_initiator,0,200,AdaBoost,0
+inclusion_criterion_Attack.on..inter.alia..political.target.s...not.politicized,0,201,AdaBoost,0
+inclusion_criterion_Attack.on.critical.infrastructure.target.s.,0,202,AdaBoost,0
+inclusion_criterion_subcode_Not.available,0,203,AdaBoost,0
+receiver_regions_X..AFRICA....SSA..,0,204,AdaBoost,0
+receiver_regions_X..ASIA....SASIA....SCO..,0,205,AdaBoost,0
+receiver_regions_other,0,206,AdaBoost,0
+receiver_category_Critical.infrastructure,0,207,AdaBoost,0
+receiver_category_Critical.infrastructure.Critical.infrastructure.Critical.infrastructure,0,208,AdaBoost,0
+receiver_category_Media,0,209,AdaBoost,0
+initiator_country_China.China,0,210,AdaBoost,0
+initiator_country_Not.attributed,0,211,AdaBoost,0
+initiator_country_Pakistan,0,212,AdaBoost,0
+initiator_country_Unknown.Unknown,0,213,AdaBoost,0
+initiator_category_Non.state.group.Non.state.group,0,214,AdaBoost,0
+initiator_category_Not.attributed,0,215,AdaBoost,0
+initiator_category_State.affiliated.actor.State.affiliated.actor,0,216,AdaBoost,0
+initiator_subcategory_Hacktivist.s..Hacktivist.s.,0,217,AdaBoost,0
+initiator_subcategory_Not.available,0,218,AdaBoost,0
+attributing_actor_NoName057.16.,0,219,AdaBoost,0
+attributing_actor_Not.available,0,220,AdaBoost,0
+attributing_actor_other,0,221,AdaBoost,0
+cyber_conflict_issue_Unknown,0,222,AdaBoost,0
+offline_conflict_issue_Territory.Resources.International.power,0,223,AdaBoost,0
+offline_conflict_intensity_Not.available,0,224,AdaBoost,0
+offline_conflict_intensity_Unknown,0,225,AdaBoost,0
+offline_conflict_intensity_Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity.Yes...HIIK.intensity,0,226,AdaBoost,0
+offline_conflict_intensity_subcode_HIIK.3.HIIK.3.HIIK.3,0,227,AdaBoost,0
+offline_conflict_intensity_subcode_HIIK.5.HIIK.5.HIIK.5.HIIK.5.HIIK.5,0,228,AdaBoost,0
+zero_days_other,0,229,AdaBoost,0
+zero_days_subcode_One,0,230,AdaBoost,0
+zero_days_subcode_other,0,231,AdaBoost,0
+mitre_initial_access_Exploit.Public.Facing.Application,0,232,AdaBoost,0
+mitre_initial_access_Phishing,0,233,AdaBoost,0
+mitre_impact_Data.Encrypted.for.Impact,0,234,AdaBoost,0
+mitre_impact_Data.Exfiltration,0,235,AdaBoost,0
+user_interaction_other,0,236,AdaBoost,0
+physical_effects_spatial_other,0,237,AdaBoost,0
+physical_effects_temporal_other,0,238,AdaBoost,0
+state_responsibility_actor_None.Negligent,0,239,AdaBoost,0
+state_responsibility_actor_Not.available,0,240,AdaBoost,0
+il_breach_indicator_subcode_Civic...political.rights.Not.available.Not.available.Economic..social.and.cultural.rights,0,241,AdaBoost,0
+il_breach_indicator_subcode_Non.state.actors.Not.available,0,242,AdaBoost,0
+evidence_for_sanctions_indicator_Not.available,0,243,AdaBoost,0
+evidence_for_sanctions_indicator_other,0,244,AdaBoost,0
+attribution_legal_reference_Not.available.Not.available,0,245,AdaBoost,0
+attribution_legal_reference_subcode_Not.available.Not.available,0,246,AdaBoost,0
+incident_period_X2000.2009,0,247,AdaBoost,0

@@ -1,0 +1,7 @@
+model,.config,macro_f1,mtry,trees,min_n,.metric,.estimator,mean,n,std_err,tree_depth,learn_rate,loss_reduction,sample_size,cost_complexity,hidden_units,penalty,epochs
+Extra Trees,pre0_mod20_post0,0.938566117200562,50,300,11,accuracy,multiclass,0.9655622830115896,5,0.00514934468057732,NA,NA,NA,NA,NA,NA,NA,NA
+Random Forest,pre0_mod20_post0,0.9391158871610312,50,300,11,accuracy,multiclass,0.9662948862016336,5,0.00553330416750333,NA,NA,NA,NA,NA,NA,NA,NA
+Gradient Boosting,pre0_mod02_post0,0.9383055630862548,NA,100,5,accuracy,multiclass,0.965926571960485,5,0.00512770152333999,2,0.1,NA,NA,NA,NA,NA,NA
+XGBoost,pre0_mod12_post0,0.9327227233192236,NA,540,3,accuracy,multiclass,0.9633617899132884,5,0.00490856860119275,4,0.01163421887679521,0.00456578013647177,0.8468335586600005,NA,NA,NA,NA
+Decision Tree,pre0_mod22_post0,0.930524003547096,NA,NA,2,accuracy,multiclass,0.9615309528202204,5,0.00420361317411914,8,NA,NA,NA,0.1,NA,NA,NA
+MLP Neural Network,pre0_mod2_post0,0.8990549913382522,NA,NA,NA,accuracy,multiclass,0.9410180634989852,5,0.00729039759629873,NA,NA,NA,NA,NA,5,1e-4,150
